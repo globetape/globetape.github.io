@@ -1,0 +1,181 @@
+# Globe Tape — full transcripts
+
+Source: https://globetape.github.io/ · https://www.youtube.com/@globetape
+
+## The True Size of Africa: US, India and EU Fit
+
+URL: https://globetape.github.io/videos/africa-size/
+YouTube: https://www.youtube.com/watch?v=6WHdqIvEl5o
+Published: 2026-11-20 · Duration: 0:36 · Place: Africa
+Short answer: What is the true size of Africa? On a Mercator map Greenland looks just as big, but Africa is 14 times larger: the mainland US, India and all 27 EU countries fit inside it at the same time, with almost half the continent to spare.
+
+Key facts:
+- Area of Africa: About 30.4 million km² (Estimates range from 30,365,000 to 30,370,000 km² depending on the source.) [source: Britannica]
+- Area of Greenland: 2,166,086 km² (On a Mercator map Greenland looks about as big as Africa.) [source: CIA World Factbook]
+- Africa compared with Greenland: 14 times bigger (Africa's area divided by Greenland's comes out at about 14.) [source: Britannica]
+- Mercator projection: 1569 (Drawn by Gerardus Mercator for navigators; it enlarges areas about 4 times at 60° latitude and about 10.5 times at 72°.)
+- Mainland United States: 8,080,464 km² (The 48 contiguous states plus DC, without Alaska or Hawaii.) [source: US Census Bureau]
+- India: 3,287,263 km² (The second country placed inside Africa in the comparison.) [source: CIA World Factbook]
+- European Union (27 countries): 4,236,351 km² (All 27 member states fit inside Africa together with the US and India.) [source: CIA World Factbook]
+- Share of Africa still uncovered: Almost half (The three together cover 15,604,078 km², about 51% of Africa, leaving about 49% free.) [source: fit measured on Natural Earth outlines]
+
+### Mercator vs Reality: How Big Africa Actually Is
+
+Africa covers about 30.4 million km², roughly 14 times the area of Greenland, even though the two look about the same size on the world map most people know. Africa is so large that the mainland United States, India and all 27 countries of the European Union fit inside it at the same time, and almost half of the continent is still left uncovered.
+
+## Why does Africa look smaller than it is?
+
+The map most of us grew up with uses the Mercator projection, drawn by Gerardus Mercator in 1569 for navigators. To flatten a round globe into a rectangle, it stretches everything that lies far from the equator.
+
+The stretching grows fast as you move towards the poles. At 60 degrees of latitude, areas look about 4 times bigger than they really are. At 72 degrees, they look about 10.5 times bigger.
+
+Mercator has never gone away. Online maps such as Google Maps use a version of it called Web Mercator, so it is still the picture of the world many people see every day.
+
+Africa lies across the equator, where Mercator distorts least. Greenland, Canada and Russia lie far to the north, where it distorts most.
+
+## Is Greenland really as big as Africa?
+
+No. On a Mercator map Greenland looks about as big as Africa, but that is the projection at work.
+
+Greenland covers 2,166,086 km². Africa covers about 30.4 million km². Divide one by the other and you get roughly 14. Slide Greenland down to the equator, where the map stops stretching it, and it shrinks into a small patch inside Africa.
+
+## What countries fit inside Africa?
+
+To show how big Africa really is, we placed three large pieces of the world inside it, all at once and without overlapping:
+
+- **The mainland United States:** 8,080,464 km², meaning the 48 contiguous states plus DC, without Alaska or Hawaii.
+- **India:** 3,287,263 km².
+- **The European Union:** 4,236,351 km² across all 27 member states.
+
+Together they add up to 15,604,078 km², about 51% of Africa. That leaves roughly 49% of the continent, almost half, still uncovered.
+
+## How was the fit checked?
+
+The comparison is not an artist's sketch. The fit was measured on Natural Earth outlines, moving each country across the globe without stretching or distorting its shape, only allowing it to rotate.
+
+A few choices keep it fair:
+
+- Africa means the mainland only, without Madagascar, small islands or the Sinai Peninsula.
+- The United States means the 48 contiguous states.
+- India is shown without the Andaman and Nicobar Islands.
+- EU countries are shown with their European territory only, without the Canary Islands, the Azores, Madeira or overseas regions.
+
+With those outlines, all 29 pieces fit inside mainland Africa with 0 km² sticking out past the coast and 0 km² of overlap between them.
+
+## Key takeaways
+
+- Africa covers about 30.4 million km², around 14 times the size of Greenland.
+- The Mercator projection (1569) stretches land far from the equator, which is why Greenland looks as big as Africa.
+- The mainland US, India and all 27 EU countries fit inside Africa at the same time.
+- Those three together cover about 51% of Africa, leaving almost half uncovered.
+- The fit was measured on real outlines, with no overlap and nothing outside the coast.
+
+FAQ:
+Q: How much bigger is Africa than Greenland?
+A: About 14 times bigger. Africa covers about 30.4 million km² and Greenland 2,166,086 km², even though they look similar on a Mercator map.
+Q: Why does Greenland look so big on maps?
+A: Because most world maps use the Mercator projection, which stretches everything far from the equator. At 60° latitude areas look about 4 times larger than they really are, and at 72° about 10.5 times larger.
+Q: Can the US, India and Europe fit inside Africa?
+A: Yes. The mainland US, India and all 27 EU countries fit inside Africa at the same time, without overlapping, and almost half of the continent is still left uncovered.
+
+Transcript:
+Your map is lying about Africa.
+This is the map you grew up with.
+It's called Mercator. To flatten the globe, it stretches everything near the poles.
+So Greenland looks as big as Africa.
+Now slide it down to the equator.
+Africa is fourteen times bigger.
+So what fits inside? The mainland US…
+United States: Wait. I'm the small one?
+India…
+…and the entire EU. All 27 countries, at once.
+And almost half of Africa is still uncovered.
+So next time you see this map…
+
+Sources: Britannica; CIA World Factbook; US Census Bureau; fit measured on Natural Earth outlines
+
+## Lesotho: The Country Inside South Africa
+
+URL: https://globetape.github.io/videos/lesotho/
+YouTube: https://www.youtube.com/watch?v=IJLDw3Rc5ns
+Published: 2026-11-19 · Duration: 0:36 · Place: Lesotho
+Short answer: Why is Lesotho inside South Africa? It's a whole independent country, about the size of Belgium, completely surrounded by a single neighbour. Even its lowest point sits 1,400 metres above sea level: a world record.
+
+Key facts:
+- Area of Lesotho: 30,355 km² (A fully independent country, completely surrounded by South Africa.) [source: CIA World Factbook]
+- Area of Belgium, for comparison: 30,689 km² (Lesotho and Belgium are almost exactly the same size.) [source: CIA World Factbook]
+- Lowest point in Lesotho: About 1,400 m (The highest lowest point of any country in the world.) [source: CIA World Factbook]
+- British protection: 1868 (King Moshoeshoe I asked Britain for protection, and the territory became the protectorate of Basutoland.) [source: CIA World Factbook]
+- Union of South Africa: 1910 (Basutoland stayed outside the Union of South Africa and never joined it.)
+- Independence: 4 October 1966 (Basutoland became the independent country of Lesotho.) [source: CIA World Factbook]
+- Countries entirely surrounded by one other country: 3 (Lesotho, San Marino and Vatican City.)
+
+### How Lesotho Ended Up Surrounded by South Africa
+
+Lesotho is inside South Africa because of a decision taken more than 150 years ago. It is a fully independent country of 30,355 km², about the size of Belgium, and South Africa surrounds it completely. In 1868 its king asked Britain for protection; in 1910 the territory, then called Basutoland, stayed outside the Union of South Africa; and on 4 October 1966 it became independent as Lesotho.
+
+## Where exactly is Lesotho?
+
+Look at a map of southern Africa and you will spot a hole in the middle of South Africa. That hole is not a lake or a nature reserve. It is a separate country with its own government and its own borders: Lesotho.
+
+What makes it unusual is that it has only one neighbour. Every kilometre of its border is shared with South Africa. Geographers call this an enclave: a country entirely surrounded by a single other country.
+
+## How big is Lesotho?
+
+Lesotho covers 30,355 km². Belgium covers 30,689 km². The two are almost exactly the same size.
+
+So Lesotho is not a tiny city-state tucked into a corner of the map. It is a country the size of a European nation, sitting completely inside its larger neighbour.
+
+## Why is Lesotho's lowest point a world record?
+
+Lesotho holds a genuine world record. Its lowest point is about 1,400 metres above sea level, the highest lowest point of any country on Earth.
+
+In practical terms, there is nowhere in Lesotho that sits lower than roughly 1,400 metres. Even the bottom of the country is high ground: the whole of Lesotho sits well above sea level.
+
+## Why did Lesotho never become part of South Africa?
+
+The answer is in its history. Three dates explain most of it:
+
+- **1868:** King Moshoeshoe I asked Britain for protection. The territory became the British protectorate of Basutoland.
+- **1910:** The Union of South Africa came together, and Basutoland stayed outside it.
+- **4 October 1966:** Basutoland became independent and took the name Lesotho.
+
+British protection put Basutoland on a separate track from its neighbours. When the Union of South Africa was formed in 1910, Basutoland was not part of it, and it never joined afterwards. By the time it became independent in 1966, the borders were already set. The result is the map we see today: an independent country with a single neighbour on every side.
+
+## Are there other countries completely surrounded by another country?
+
+Yes, but very few. Only three countries on Earth are entirely surrounded by one other country. Lesotho is one of them. The other two are San Marino and Vatican City.
+
+That makes Lesotho a true geographic rarity: one of just three countries in the world that cannot reach any other nation without first crossing a single neighbour.
+
+## Key takeaways
+
+- Lesotho is an independent country completely surrounded by South Africa.
+- It covers 30,355 km², about the same as Belgium (30,689 km²).
+- Its lowest point is about 1,400 metres above sea level, a world record.
+- In 1868 King Moshoeshoe I asked Britain for protection, creating Basutoland.
+- Basutoland stayed outside the Union of South Africa in 1910 and became independent as Lesotho on 4 October 1966.
+- Only three countries are surrounded by a single country: Lesotho, San Marino and Vatican City.
+
+FAQ:
+Q: Why is Lesotho inside South Africa?
+A: Because of its history: in 1868 its king, Moshoeshoe I, asked Britain for protection, and the territory became Basutoland. It stayed outside the Union of South Africa in 1910 and became independent as Lesotho in 1966, still surrounded on every side by South Africa.
+Q: How big is Lesotho compared to Belgium?
+A: They are almost the same size. Lesotho covers 30,355 km² and Belgium covers 30,689 km².
+Q: Which countries are completely surrounded by another country?
+A: Only three: Lesotho, San Marino and Vatican City. Lesotho is the one surrounded by South Africa.
+
+Transcript:
+This country is trapped inside another one.
+This is South Africa.
+But this hole in the middle? That's a country: Lesotho.
+Lesotho: Hi!
+It's the size of Belgium…
+…and South Africa surrounds it completely.
+South Africa: You're welcome.
+Even its lowest point is 1,400 metres up. A world record.
+Lesotho: I like it up here.
+Why? In 1868 its king asked Britain for protection, and never joined South Africa.
+Independent since 1966… and one of only three countries trapped like this.
+
+Sources: CIA World Factbook

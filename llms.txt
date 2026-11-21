@@ -1,0 +1,27 @@
+# Globe Tape
+
+> Every place on Earth has a story on tape. We hit rewind. Globe Tape is a YouTube channel (https://www.youtube.com/@globetape) of animated map videos about borders, wars, true sizes and map oddities, built from real satellite, terrain and border data, with every fact checked against named sources.
+
+Each video page on this site has the short answer, full transcript, chapters, sources and map credits. Neutral on wars and disputes: what happened and when. Full text of every transcript: https://globetape.github.io/llms-full.txt
+
+## Videos
+- [The True Size of Africa: US, India and EU Fit](https://globetape.github.io/videos/africa-size/): What is the true size of Africa? On a Mercator map Greenland looks just as big, but Africa is 14 times larger: the mainland US, India and all 27 EU countries fit inside it at the same time, with almost half the continent to spare. (Short, 0:36, 2026-11-20, Africa; YouTube: https://www.youtube.com/watch?v=6WHdqIvEl5o)
+- [Lesotho: The Country Inside South Africa](https://globetape.github.io/videos/lesotho/): Why is Lesotho inside South Africa? It's a whole independent country, about the size of Belgium, completely surrounded by a single neighbour. Even its lowest point sits 1,400 metres above sea level: a world record. (Short, 0:36, 2026-11-19, Lesotho; YouTube: https://www.youtube.com/watch?v=IJLDw3Rc5ns)
+
+## Series
+- [Borders on Rewind](https://globetape.github.io/series/borders/): How do borders move? Animated maps of wars, front lines and borders that changed: how much of Ukraine Russia controls and how the front line got there, why Korea is still split along a 1953 ceasefire line, and more. We hit rewind and watch the map change, date by date.
+- [Map Oddities](https://globetape.github.io/series/oddities/): The strangest places on the map, explained: a country completely inside another country (Lesotho), a piece of Russia cut off from Russia (Kaliningrad), land nobody wants, borders that make no sense, and the history behind each one.
+- [True Size](https://globetape.github.io/series/truesize/): Your map is lying to you. The Mercator projection stretches everything near the poles, so Greenland looks as big as Africa and Europe looks huge. Here we move the real outlines of countries across the globe at their true size: the true size of Africa, how long Chile really is, and more country size comparisons.
+- [History on Tape](https://globetape.github.io/series/history/): History told on the map: empires, treaties, sales and collapses that changed who owns what. Why Russia sold Alaska for two cents an acre, and more moments that redrew the world map, rewound and explained with animated maps.
+
+## Places
+- [Africa](https://globetape.github.io/places/africa/): The True Size of Africa: US, India and EU Fit
+- [Lesotho](https://globetape.github.io/places/lesotho/): Lesotho: The Country Inside South Africa
+
+## Reference
+- [Fact file](https://globetape.github.io/facts/): every figure in our videos with its source (also JSON: https://globetape.github.io/data/facts.json, CC BY 4.0)
+- [Corrections log](https://globetape.github.io/corrections/)
+
+## About
+- [How we make them, data and corrections policy](https://globetape.github.io/about/)
+- [YouTube channel](https://www.youtube.com/@globetape)

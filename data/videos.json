@@ -1,0 +1,57 @@
+{
+  "channel": {
+    "name": "Globe Tape",
+    "handle": "@globetape",
+    "id": "UCppvbbrmxlN4MwT2_AwyhbA",
+    "url": "https://www.youtube.com/@globetape",
+    "subscribe": "https://www.youtube.com/@globetape?sub_confirmation=1",
+    "tagline": "Every place on Earth has a story on tape. We hit rewind.",
+    "founded": "2026-11"
+  },
+  "updated": "2026-11-20T18:00:00Z",
+  "nextRelease": "2026-11-21T18:00:00Z",
+  "videos": [
+    {
+      "id": "africa-size",
+      "youtubeId": "6WHdqIvEl5o",
+      "title": "The True Size of Africa: US, India and EU Fit",
+      "format": "shorts",
+      "series": "truesize",
+      "published": "2026-11-20T18:00:00Z",
+      "duration": 36,
+      "place": {
+        "name": "Africa",
+        "lat": 4,
+        "lon": 20
+      },
+      "summary": "What is the true size of Africa? On a Mercator map Greenland looks just as big, but Africa is 14 times larger: the mainland US, India and all 27 EU countries fit inside it at the same time, with almost half the continent to spare.",
+      "url": "https://globetape.github.io/videos/africa-size/",
+      "sources": [
+        "Britannica",
+        "CIA World Factbook",
+        "US Census Bureau",
+        "fit measured on Natural Earth outlines"
+      ]
+    },
+    {
+      "id": "lesotho",
+      "youtubeId": "IJLDw3Rc5ns",
+      "title": "Lesotho: The Country Inside South Africa",
+      "format": "shorts",
+      "series": "oddities",
+      "published": "2026-11-19T18:00:00Z",
+      "duration": 36,
+      "place": {
+        "name": "Lesotho",
+        "country": "LS",
+        "lat": -29.6,
+        "lon": 28.2
+      },
+      "summary": "Why is Lesotho inside South Africa? It's a whole independent country, about the size of Belgium, completely surrounded by a single neighbour. Even its lowest point sits 1,400 metres above sea level: a world record.",
+      "url": "https://globetape.github.io/videos/lesotho/",
+      "sources": [
+        "CIA World Factbook"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "license": "CC BY 4.0 — credit Globe Tape with a link",
+  "source": "https://globetape.github.io/facts/",
+  "facts": [
+    {
+      "label": "Area of Africa",
+      "value": "About 30.4 million km²",
+      "detail": "Estimates range from 30,365,000 to 30,370,000 km² depending on the source.",
+      "source": "Britannica",
+      "video": "https://globetape.github.io/videos/africa-size/",
+      "videoTitle": "The True Size of Africa: US, India and EU Fit"
+    },
+    {
+      "label": "Area of Greenland",
+      "value": "2,166,086 km²",
+      "detail": "On a Mercator map Greenland looks about as big as Africa.",
+      "source": "CIA World Factbook",
+      "video": "https://globetape.github.io/videos/africa-size/",
+      "videoTitle": "The True Size of Africa: US, India and EU Fit"
+    },
+    {
+      "label": "Africa compared with Greenland",
+      "value": "14 times bigger",
+      "detail": "Africa's area divided by Greenland's comes out at about 14.",
+      "source": "Britannica",
+      "video": "https://globetape.github.io/videos/africa-size/",
+      "videoTitle": "The True Size of Africa: US, India and EU Fit"
+    },
+    {
+      "label": "Mercator projection",
+      "value": "1569",
+      "detail": "Drawn by Gerardus Mercator for navigators; it enlarges areas about 4 times at 60° latitude and about 10.5 times at 72°.",
+      "source": null,
+      "video": "https://globetape.github.io/videos/africa-size/",
+      "videoTitle": "The True Size of Africa: US, India and EU Fit"
+    },
+    {
+      "label": "Mainland United States",
+      "value": "8,080,464 km²",
+      "detail": "The 48 contiguous states plus DC, without Alaska or Hawaii.",
+      "source": "US Census Bureau",
+      "video": "https://globetape.github.io/videos/africa-size/",
+      "videoTitle": "The True Size of Africa: US, India and EU Fit"
+    },
+    {
+      "label": "India",
+      "value": "3,287,263 km²",
+      "detail": "The second country placed inside Africa in the comparison.",
+      "source": "CIA World Factbook",
+      "video": "https://globetape.github.io/videos/africa-size/",
+      "videoTitle": "The True Size of Africa: US, India and EU Fit"
+    },
+    {
+      "label": "European Union (27 countries)",
+      "value": "4,236,351 km²",
+      "detail": "All 27 member states fit inside Africa together with the US and India.",
+      "source": "CIA World Factbook",
+      "video": "https://globetape.github.io/videos/africa-size/",
+      "videoTitle": "The True Size of Africa: US, India and EU Fit"
+    },
+    {
+      "label": "Share of Africa still uncovered",
+      "value": "Almost half",
+      "detail": "The three together cover 15,604,078 km², about 51% of Africa, leaving about 49% free.",
+      "source": "fit measured on Natural Earth outlines",
+      "video": "https://globetape.github.io/videos/africa-size/",
+      "videoTitle": "The True Size of Africa: US, India and EU Fit"
+    },
+    {
+      "label": "Area of Lesotho",
+      "value": "30,355 km²",
+      "detail": "A fully independent country, completely surrounded by South Africa.",
+      "source": "CIA World Factbook",
+      "video": "https://globetape.github.io/videos/lesotho/",
+      "videoTitle": "Lesotho: The Country Inside South Africa"
+    },
+    {
+      "label": "Area of Belgium, for comparison",
+      "value": "30,689 km²",
+      "detail": "Lesotho and Belgium are almost exactly the same size.",
+      "source": "CIA World Factbook",
+      "video": "https://globetape.github.io/videos/lesotho/",
+      "videoTitle": "Lesotho: The Country Inside South Africa"
+    },
+    {
+      "label": "Lowest point in Lesotho",
+      "value": "About 1,400 m",
+      "detail": "The highest lowest point of any country in the world.",
+      "source": "CIA World Factbook",
+      "video": "https://globetape.github.io/videos/lesotho/",
+      "videoTitle": "Lesotho: The Country Inside South Africa"
+    },
+    {
+      "label": "British protection",
+      "value": "1868",
+      "detail": "King Moshoeshoe I asked Britain for protection, and the territory became the protectorate of Basutoland.",
+      "source": "CIA World Factbook",
+      "video": "https://globetape.github.io/videos/lesotho/",
+      "videoTitle": "Lesotho: The Country Inside South Africa"
+    },
+    {
+      "label": "Union of South Africa",
+      "value": "1910",
+      "detail": "Basutoland stayed outside the Union of South Africa and never joined it.",
+      "source": null,
+      "video": "https://globetape.github.io/videos/lesotho/",
+      "videoTitle": "Lesotho: The Country Inside South Africa"
+    },
+    {
+      "label": "Independence",
+      "value": "4 October 1966",
+      "detail": "Basutoland became the independent country of Lesotho.",
+      "source": "CIA World Factbook",
+      "video": "https://globetape.github.io/videos/lesotho/",
+      "videoTitle": "Lesotho: The Country Inside South Africa"
+    },
+    {
+      "label": "Countries entirely surrounded by one other country",
+      "value": "3",
+      "detail": "Lesotho, San Marino and Vatican City.",
+      "source": null,
+      "video": "https://globetape.github.io/videos/lesotho/",
+      "videoTitle": "Lesotho: The Country Inside South Africa"
+    }
+  ]
+}
