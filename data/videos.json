@@ -8,9 +8,29 @@
     "tagline": "Every place on Earth has a story on tape. We hit rewind.",
     "founded": "2026-11"
   },
-  "updated": "2026-11-20T18:00:00Z",
-  "nextRelease": "2026-11-21T18:00:00Z",
+  "updated": "2026-11-21T18:00:00Z",
+  "nextRelease": "2026-11-22T18:00:00Z",
   "videos": [
+    {
+      "id": "ukraine-front",
+      "youtubeId": "FRN2bWGVwTU",
+      "title": "How Much of Ukraine Does Russia Control?",
+      "format": "shorts",
+      "series": "borders",
+      "published": "2026-11-21T18:00:00Z",
+      "duration": 37,
+      "place": {
+        "name": "Ukraine",
+        "country": "UA",
+        "lat": 48.4,
+        "lon": 33.5
+      },
+      "summary": "How much of Ukraine does Russia control? About 19% in November 2026, according to DeepStateMap: roughly 114,000 km², an area bigger than Portugal. We rewind the map to 2013 and watch the front line move, month by month.",
+      "url": "https://globetape.github.io/videos/ukraine-front/",
+      "sources": [
+        "DeepStateMap (deepstatemap.live), monthly snapshots to 17 Nov 2026"
+      ]
+    },
     {
       "id": "africa-size",
       "youtubeId": "6WHdqIvEl5o",

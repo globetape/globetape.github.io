@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
-<url><loc>https://globetape.github.io/</loc><lastmod>2026-11-20</lastmod></url>
-<url><loc>https://globetape.github.io/videos/</loc><lastmod>2026-11-20</lastmod></url>
+<url><loc>https://globetape.github.io/</loc><lastmod>2026-11-21</lastmod></url>
+<url><loc>https://globetape.github.io/videos/</loc><lastmod>2026-11-21</lastmod></url>
 <url><loc>https://globetape.github.io/series/</loc></url>
 <url><loc>https://globetape.github.io/about/</loc></url>
 <url><loc>https://globetape.github.io/places/</loc></url>
@@ -9,6 +9,11 @@
 <url><loc>https://globetape.github.io/corrections/</loc></url>
 <url><loc>https://globetape.github.io/places/africa/</loc><lastmod>2026-11-20</lastmod></url>
 <url><loc>https://globetape.github.io/places/lesotho/</loc><lastmod>2026-11-19</lastmod></url>
+<url><loc>https://globetape.github.io/places/ukraine/</loc><lastmod>2026-11-21</lastmod></url>
+<url><loc>https://globetape.github.io/es/videos/ukraine-front/</loc><lastmod>2026-11-21</lastmod></url>
+<url><loc>https://globetape.github.io/pt/videos/ukraine-front/</loc><lastmod>2026-11-21</lastmod></url>
+<url><loc>https://globetape.github.io/fr/videos/ukraine-front/</loc><lastmod>2026-11-21</lastmod></url>
+<url><loc>https://globetape.github.io/de/videos/ukraine-front/</loc><lastmod>2026-11-21</lastmod></url>
 <url><loc>https://globetape.github.io/es/videos/africa-size/</loc><lastmod>2026-11-20</lastmod></url>
 <url><loc>https://globetape.github.io/pt/videos/africa-size/</loc><lastmod>2026-11-20</lastmod></url>
 <url><loc>https://globetape.github.io/fr/videos/africa-size/</loc><lastmod>2026-11-20</lastmod></url>
@@ -17,10 +22,13 @@
 <url><loc>https://globetape.github.io/pt/videos/lesotho/</loc><lastmod>2026-11-19</lastmod></url>
 <url><loc>https://globetape.github.io/fr/videos/lesotho/</loc><lastmod>2026-11-19</lastmod></url>
 <url><loc>https://globetape.github.io/de/videos/lesotho/</loc><lastmod>2026-11-19</lastmod></url>
-<url><loc>https://globetape.github.io/series/borders/</loc></url>
+<url><loc>https://globetape.github.io/series/borders/</loc><lastmod>2026-11-21</lastmod></url>
 <url><loc>https://globetape.github.io/series/oddities/</loc><lastmod>2026-11-19</lastmod></url>
 <url><loc>https://globetape.github.io/series/truesize/</loc><lastmod>2026-11-20</lastmod></url>
 <url><loc>https://globetape.github.io/series/history/</loc></url>
+<url><loc>https://globetape.github.io/videos/ukraine-front/</loc><lastmod>2026-11-21</lastmod>
+  <image:image><image:loc>https://globetape.github.io/thumbs/ukraine-front.jpg</image:loc></image:image>
+  <video:video><video:thumbnail_loc>https://globetape.github.io/thumbs/ukraine-front.jpg</video:thumbnail_loc><video:title>How Much of Ukraine Does Russia Control?</video:title><video:description>How much of Ukraine does Russia control? About 19% in November 2026, according to DeepStateMap: roughly 114,000 km², an area bigger than Portugal. We rewind the map to 2013 and watch the front line move, month by month.</video:description><video:player_loc>https://www.youtube.com/embed/FRN2bWGVwTU</video:player_loc><video:duration>37</video:duration><video:publication_date>2026-11-21T18:00:00Z</video:publication_date><video:family_friendly>yes</video:family_friendly></video:video></url>
 <url><loc>https://globetape.github.io/videos/africa-size/</loc><lastmod>2026-11-20</lastmod>
   <image:image><image:loc>https://globetape.github.io/thumbs/africa-size.jpg</image:loc></image:image>
   <video:video><video:thumbnail_loc>https://globetape.github.io/thumbs/africa-size.jpg</video:thumbnail_loc><video:title>The True Size of Africa: US, India and EU Fit</video:title><video:description>What is the true size of Africa? On a Mercator map Greenland looks just as big, but Africa is 14 times larger: the mainland US, India and all 27 EU countries fit inside it at the same time, with almost half the continent to spare.</video:description><video:player_loc>https://www.youtube.com/embed/6WHdqIvEl5o</video:player_loc><video:duration>36</video:duration><video:publication_date>2026-11-20T18:00:00Z</video:publication_date><video:family_friendly>yes</video:family_friendly></video:video></url>

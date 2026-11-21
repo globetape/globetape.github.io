@@ -3,6 +3,62 @@
   "source": "https://globetape.github.io/facts/",
   "facts": [
     {
+      "label": "Share of Ukraine controlled by Russia (17 Nov 2026)",
+      "value": "About 19%",
+      "detail": "19.2% of Ukraine including Crimea, based on the DeepStateMap snapshot of 17 November 2026.",
+      "source": "DeepStateMap (deepstatemap.live), monthly snapshots to 17 Nov 2026",
+      "video": "https://globetape.github.io/videos/ukraine-front/",
+      "videoTitle": "How Much of Ukraine Does Russia Control?"
+    },
+    {
+      "label": "Area controlled by Russia (17 Nov 2026)",
+      "value": "About 114,000 km²",
+      "detail": "114,449 km² in the 17 November 2026 snapshot, more than the whole of Portugal (92,225 km²).",
+      "source": "DeepStateMap (deepstatemap.live), monthly snapshots to 17 Nov 2026",
+      "video": "https://globetape.github.io/videos/ukraine-front/",
+      "videoTitle": "How Much of Ukraine Does Russia Control?"
+    },
+    {
+      "label": "Annexation of Crimea",
+      "value": "18 March 2014",
+      "detail": "The date the treaty annexing Crimea to Russia was signed.",
+      "source": "Britannica",
+      "video": "https://globetape.github.io/videos/ukraine-front/",
+      "videoTitle": "How Much of Ukraine Does Russia Control?"
+    },
+    {
+      "label": "Fighting in the Donbas",
+      "value": "April 2014",
+      "detail": "Russian troops and Russian-backed local forces took part of the Donbas; the line there was stable from February 2015.",
+      "source": "Britannica",
+      "video": "https://globetape.github.io/videos/ukraine-front/",
+      "videoTitle": "How Much of Ukraine Does Russia Control?"
+    },
+    {
+      "label": "Full-scale invasion",
+      "value": "24 February 2022",
+      "detail": "Russia launched a full-scale invasion of Ukraine.",
+      "source": "Britannica",
+      "video": "https://globetape.github.io/videos/ukraine-front/",
+      "videoTitle": "How Much of Ukraine Does Russia Control?"
+    },
+    {
+      "label": "Peak of Russian control (March 2022)",
+      "value": "Over a fifth",
+      "detail": "Estimates range from about 21% (around 133,000 km²) to 27% depending on the source.",
+      "source": "ISW",
+      "video": "https://globetape.github.io/videos/ukraine-front/",
+      "videoTitle": "How Much of Ukraine Does Russia Control?"
+    },
+    {
+      "label": "Share controlled by Russia (December 2022)",
+      "value": "17.7%",
+      "detail": "After Ukraine retook ground around Kyiv, Kharkiv and Kherson in 2022, the figure rose slowly to 19.2% by November 2026.",
+      "source": "DeepStateMap (deepstatemap.live), monthly snapshots to 17 Nov 2026",
+      "video": "https://globetape.github.io/videos/ukraine-front/",
+      "videoTitle": "How Much of Ukraine Does Russia Control?"
+    },
+    {
       "label": "Area of Africa",
       "value": "About 30.4 million km²",
       "detail": "Estimates range from 30,365,000 to 30,370,000 km² depending on the source.",

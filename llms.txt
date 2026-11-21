@@ -5,6 +5,7 @@
 Each video page on this site has the short answer, full transcript, chapters, sources and map credits. Neutral on wars and disputes: what happened and when. Full text of every transcript: https://globetape.github.io/llms-full.txt
 
 ## Videos
+- [How Much of Ukraine Does Russia Control?](https://globetape.github.io/videos/ukraine-front/): How much of Ukraine does Russia control? About 19% in November 2026, according to DeepStateMap: roughly 114,000 km², an area bigger than Portugal. We rewind the map to 2013 and watch the front line move, month by month. (Short, 0:37, 2026-11-21, Ukraine; YouTube: https://www.youtube.com/watch?v=FRN2bWGVwTU)
 - [The True Size of Africa: US, India and EU Fit](https://globetape.github.io/videos/africa-size/): What is the true size of Africa? On a Mercator map Greenland looks just as big, but Africa is 14 times larger: the mainland US, India and all 27 EU countries fit inside it at the same time, with almost half the continent to spare. (Short, 0:36, 2026-11-20, Africa; YouTube: https://www.youtube.com/watch?v=6WHdqIvEl5o)
 - [Lesotho: The Country Inside South Africa](https://globetape.github.io/videos/lesotho/): Why is Lesotho inside South Africa? It's a whole independent country, about the size of Belgium, completely surrounded by a single neighbour. Even its lowest point sits 1,400 metres above sea level: a world record. (Short, 0:36, 2026-11-19, Lesotho; YouTube: https://www.youtube.com/watch?v=IJLDw3Rc5ns)
 
@@ -17,6 +18,7 @@ Each video page on this site has the short answer, full transcript, chapters, so
 ## Places
 - [Africa](https://globetape.github.io/places/africa/): The True Size of Africa: US, India and EU Fit
 - [Lesotho](https://globetape.github.io/places/lesotho/): Lesotho: The Country Inside South Africa
+- [Ukraine](https://globetape.github.io/places/ukraine/): How Much of Ukraine Does Russia Control?
 
 ## Reference
 - [Fact file](https://globetape.github.io/facts/): every figure in our videos with its source (also JSON: https://globetape.github.io/data/facts.json, CC BY 4.0)
