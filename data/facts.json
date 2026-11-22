@@ -3,6 +3,70 @@
   "source": "https://globetape.github.io/facts/",
   "facts": [
     {
+      "label": "Purchase price",
+      "value": "$7,200,000",
+      "detail": "The sum the United States agreed to pay Russia for Alaska in 1867.",
+      "source": "US Office of the Historian",
+      "video": "https://globetape.github.io/videos/alaska-sale/",
+      "videoTitle": "Russia Sold Alaska for 2 Cents an Acre"
+    },
+    {
+      "label": "Treaty signed",
+      "value": "March 30, 1867",
+      "detail": "Signed in Washington by US Secretary of State William Seward and Russian minister Eduard de Stoeckl, at 4 a.m. after negotiating through the night.",
+      "source": "US Office of the Historian",
+      "video": "https://globetape.github.io/videos/alaska-sale/",
+      "videoTitle": "Russia Sold Alaska for 2 Cents an Acre"
+    },
+    {
+      "label": "Senate vote",
+      "value": "37 to 2",
+      "detail": "The US Senate ratified the treaty on April 9, 1867.",
+      "source": "US Office of the Historian",
+      "video": "https://globetape.github.io/videos/alaska-sale/",
+      "videoTitle": "Russia Sold Alaska for 2 Cents an Acre"
+    },
+    {
+      "label": "Formal handover",
+      "value": "October 18, 1867",
+      "detail": "In Sitka, the Russian flag was lowered and the US flag was raised.",
+      "source": "US Office of the Historian",
+      "video": "https://globetape.github.io/videos/alaska-sale/",
+      "videoTitle": "Russia Sold Alaska for 2 Cents an Acre"
+    },
+    {
+      "label": "Price per acre",
+      "value": "About 2 cents",
+      "detail": "Roughly 1,518,800 km² (375 million acres) for $7.2 million works out to about 1.9 cents an acre.",
+      "source": null,
+      "video": "https://globetape.github.io/videos/alaska-sale/",
+      "videoTitle": "Russia Sold Alaska for 2 Cents an Acre"
+    },
+    {
+      "label": "Size compared with France",
+      "value": "About 2.7 times",
+      "detail": "Alaska has about 1,481,346 km² of land, against about 543,940 km² for metropolitan France.",
+      "source": null,
+      "video": "https://globetape.github.io/videos/alaska-sale/",
+      "videoTitle": "Russia Sold Alaska for 2 Cents an Acre"
+    },
+    {
+      "label": "Prudhoe Bay oil discovery",
+      "value": "Announced March 12, 1968",
+      "detail": "Prudhoe Bay is the largest oil field in the United States.",
+      "source": "National Park Service",
+      "video": "https://globetape.github.io/videos/alaska-sale/",
+      "videoTitle": "Russia Sold Alaska for 2 Cents an Acre"
+    },
+    {
+      "label": "Alaska oil output in 2026",
+      "value": "About 413,000–428,000 barrels a day",
+      "detail": "At around $100 a barrel, that is roughly $7 million worth of oil every four hours.",
+      "source": "US Energy Information Administration",
+      "video": "https://globetape.github.io/videos/alaska-sale/",
+      "videoTitle": "Russia Sold Alaska for 2 Cents an Acre"
+    },
+    {
       "label": "Share of Ukraine controlled by Russia (17 Nov 2026)",
       "value": "About 19%",
       "detail": "19.2% of Ukraine including Crimea, based on the DeepStateMap snapshot of 17 November 2026.",

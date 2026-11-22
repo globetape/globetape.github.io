@@ -8,9 +8,32 @@
     "tagline": "Every place on Earth has a story on tape. We hit rewind.",
     "founded": "2026-11"
   },
-  "updated": "2026-11-21T18:00:00Z",
-  "nextRelease": "2026-11-22T18:00:00Z",
+  "updated": "2026-11-22T18:00:00Z",
+  "nextRelease": "2026-11-23T18:00:00Z",
   "videos": [
+    {
+      "id": "alaska-sale",
+      "youtubeId": "i47FW9FEceQ",
+      "title": "Russia Sold Alaska for 2 Cents an Acre",
+      "format": "shorts",
+      "series": "history",
+      "published": "2026-11-22T18:00:00Z",
+      "duration": 37,
+      "place": {
+        "name": "Alaska",
+        "country": "US",
+        "lat": 63.5,
+        "lon": -150
+      },
+      "summary": "Why did Russia sell Alaska? In 1867 it was hard to defend, far from St Petersburg and next door to British Canada, so Russia sold it to the United States for $7.2 million: about two cents an acre. Today Alaska pumps $7 million worth of oil every few hours.",
+      "url": "https://globetape.github.io/videos/alaska-sale/",
+      "sources": [
+        "US Office of the Historian",
+        "National Park Service",
+        "US Energy Information Administration",
+        "Alaska Department of Revenue"
+      ]
+    },
     {
       "id": "ukraine-front",
       "youtubeId": "FRN2bWGVwTU",
