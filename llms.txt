@@ -17,6 +17,7 @@ Each video page on this site has the short answer, full transcript, chapters, so
 - [True Size](https://globetape.github.io/series/truesize/): Your map is lying to you. The Mercator projection stretches everything near the poles, so Greenland looks as big as Africa and Europe looks huge. Here we move the real outlines of countries across the globe at their true size: the true size of Africa, how long Chile really is, and more country size comparisons.
 - [History on Tape](https://globetape.github.io/series/history/): History told on the map: empires, treaties, sales and collapses that changed who owns what. Why Russia sold Alaska for two cents an acre, and more moments that redrew the world map, rewound and explained with animated maps.
 - [Richer Next Door](https://globetape.github.io/series/riches/): Why is one country rich and the one next door not? Why is Norway richer than Sweden? Two neighbors, same weather, same history, very different wallets. We put the money on the map: GDP per person, oil fields, ports, borders and the decisions behind the gap, then rewind to the moment it opened.
+- [World Today](https://globetape.github.io/series/world-today/): Daily world news explained on the map. World Today takes you west to east through the day's international headlines, from elections and diplomacy to climate and earthquakes. Each English-language briefing shows where the stories happened and why the geography matters.
 
 ## Places
 - [Africa](https://globetape.github.io/places/africa/): The True Size of Africa: US, India and EU Fit
