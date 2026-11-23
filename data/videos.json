@@ -8,9 +8,32 @@
     "tagline": "Every place on Earth has a story on tape. We hit rewind.",
     "founded": "2026-11"
   },
-  "updated": "2026-11-22T18:00:00Z",
-  "nextRelease": "2026-11-23T18:00:00Z",
+  "updated": "2026-11-23T18:00:00Z",
+  "nextRelease": "2026-11-23T23:00:00Z",
   "videos": [
+    {
+      "id": "kaliningrad",
+      "youtubeId": "SJb-IVBDslA",
+      "title": "Kaliningrad: Why Does Russia Own It?",
+      "format": "shorts",
+      "series": "oddities",
+      "published": "2026-11-23T18:00:00Z",
+      "duration": 41,
+      "place": {
+        "name": "Kaliningrad Oblast",
+        "country": "RU",
+        "lat": 54.7,
+        "lon": 20.5
+      },
+      "summary": "Why does Russia own Kaliningrad, a piece of land squeezed between Poland and Lithuania, inside the EU and NATO and two countries away from the rest of Russia? We rewind to 1945, when it was still the German city of Königsberg.",
+      "url": "https://globetape.github.io/videos/kaliningrad/",
+      "sources": [
+        "Potsdam Agreement (1945)",
+        "NATO and EU accession records",
+        "US Naval Institute",
+        "DW"
+      ]
+    },
     {
       "id": "alaska-sale",
       "youtubeId": "i47FW9FEceQ",

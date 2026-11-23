@@ -3,6 +3,62 @@
   "source": "https://globetape.github.io/facts/",
   "facts": [
     {
+      "label": "Former name",
+      "value": "Königsberg",
+      "detail": "Until 1945 the city was German, part of East Prussia.",
+      "source": null,
+      "video": "https://globetape.github.io/videos/kaliningrad/",
+      "videoTitle": "Kaliningrad: Why Does Russia Own It?"
+    },
+    {
+      "label": "Transferred to the USSR",
+      "value": "1945",
+      "detail": "The Potsdam Agreement of August 1, 1945 placed Königsberg and the northern part of East Prussia under the Soviet Union.",
+      "source": "Potsdam Agreement (1945)",
+      "video": "https://globetape.github.io/videos/kaliningrad/",
+      "videoTitle": "Kaliningrad: Why Does Russia Own It?"
+    },
+    {
+      "label": "Renamed Kaliningrad",
+      "value": "July 4, 1946",
+      "detail": "The city was renamed after Mikhail Kalinin.",
+      "source": null,
+      "video": "https://globetape.github.io/videos/kaliningrad/",
+      "videoTitle": "Kaliningrad: Why Does Russia Own It?"
+    },
+    {
+      "label": "Cut off from mainland Russia",
+      "value": "1991",
+      "detail": "The USSR recognised Lithuania's independence on September 6, 1991, and the Soviet Union itself dissolved in December 1991.",
+      "source": null,
+      "video": "https://globetape.github.io/videos/kaliningrad/",
+      "videoTitle": "Kaliningrad: Why Does Russia Own It?"
+    },
+    {
+      "label": "Neighbours in NATO and the EU",
+      "value": "By 2004",
+      "detail": "Poland joined NATO in 1999 and Lithuania on March 29, 2004; both joined the EU on May 1, 2004.",
+      "source": "NATO and EU accession records",
+      "video": "https://globetape.github.io/videos/kaliningrad/",
+      "videoTitle": "Kaliningrad: Why Does Russia Own It?"
+    },
+    {
+      "label": "Ice-free port",
+      "value": "Baltiysk",
+      "detail": "Home of Russia's Baltic Fleet and Russia's only Baltic port that stays free of ice all year.",
+      "source": "US Naval Institute",
+      "video": "https://globetape.github.io/videos/kaliningrad/",
+      "videoTitle": "Kaliningrad: Why Does Russia Own It?"
+    },
+    {
+      "label": "Area and population",
+      "value": "About 15,100 km² · about 1 million people",
+      "detail": "A small exclave compared with the rest of Russia.",
+      "source": null,
+      "video": "https://globetape.github.io/videos/kaliningrad/",
+      "videoTitle": "Kaliningrad: Why Does Russia Own It?"
+    },
+    {
       "label": "Purchase price",
       "value": "$7,200,000",
       "detail": "The sum the United States agreed to pay Russia for Alaska in 1867.",
