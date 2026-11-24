@@ -8,9 +8,30 @@
     "tagline": "Every place on Earth has a story on tape. We hit rewind.",
     "founded": "2026-11"
   },
-  "updated": "2026-11-24T06:28:46Z",
-  "nextRelease": "2026-11-24T18:00:00Z",
+  "updated": "2026-11-24T18:00:00Z",
+  "nextRelease": "2026-11-25T18:00:00Z",
   "videos": [
+    {
+      "id": "chile-length",
+      "youtubeId": "Rhv_-F-Rd40",
+      "title": "Chile Is Longer Than Lisbon to Moscow",
+      "format": "shorts",
+      "series": "truesize",
+      "published": "2026-11-24T18:00:00Z",
+      "duration": 40,
+      "place": {
+        "name": "Chile",
+        "country": "CL",
+        "lat": -33.5,
+        "lon": -70.7
+      },
+      "summary": "How long is Chile? 4,270 km from north to south, but only 177 km wide on average. Lay it over Europe with its southern tip on Lisbon and it doesn't stop at Moscow: it keeps going for another 360 km, crossing ten countries on the way.",
+      "url": "https://globetape.github.io/videos/chile-length/",
+      "sources": [
+        "Library of Congress, Chile: A Country Study",
+        "outline measured and placed on Natural Earth"
+      ]
+    },
     {
       "id": "world-today-2026-11-23-h",
       "youtubeId": "0OTg5656th8",

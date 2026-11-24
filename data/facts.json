@@ -3,6 +3,54 @@
   "source": "https://globetape.github.io/facts/",
   "facts": [
     {
+      "label": "Length of Chile",
+      "value": "4,270 km",
+      "detail": "Measured from north to south along the country.",
+      "source": "Library of Congress, Chile: A Country Study",
+      "video": "https://globetape.github.io/videos/chile-length/",
+      "videoTitle": "Chile Is Longer Than Lisbon to Moscow"
+    },
+    {
+      "label": "Average width of Chile",
+      "value": "177 km",
+      "detail": "Chile is more than 24 times longer than it is wide on average.",
+      "source": "Library of Congress, Chile: A Country Study",
+      "video": "https://globetape.github.io/videos/chile-length/",
+      "videoTitle": "Chile Is Longer Than Lisbon to Moscow"
+    },
+    {
+      "label": "Lisbon to Moscow",
+      "value": "3,907 km",
+      "detail": "The straight-line distance between the two capitals.",
+      "source": null,
+      "video": "https://globetape.github.io/videos/chile-length/",
+      "videoTitle": "Chile Is Longer Than Lisbon to Moscow"
+    },
+    {
+      "label": "Distance past Moscow",
+      "value": "About 360 km",
+      "detail": "With its southern tip on Lisbon, Chile's northern tip lands about 360 km beyond Moscow.",
+      "source": "outline measured and placed on Natural Earth",
+      "video": "https://globetape.github.io/videos/chile-length/",
+      "videoTitle": "Chile Is Longer Than Lisbon to Moscow"
+    },
+    {
+      "label": "Countries crossed in Europe",
+      "value": "10",
+      "detail": "Russia, Germany, France, Belarus, Poland, Lithuania, Portugal, Spain, Belgium and the Netherlands.",
+      "source": "outline measured and placed on Natural Earth",
+      "video": "https://globetape.github.io/videos/chile-length/",
+      "videoTitle": "Chile Is Longer Than Lisbon to Moscow"
+    },
+    {
+      "label": "Europe from west to east",
+      "value": "About 5,200–5,460 km",
+      "detail": "From Cabo da Roca in Portugal to the Urals, so Europe is still wider than Chile is long.",
+      "source": null,
+      "video": "https://globetape.github.io/videos/chile-length/",
+      "videoTitle": "Chile Is Longer Than Lisbon to Moscow"
+    },
+    {
       "label": "United States · Tech",
       "value": "Nvidia reinstates jensen huang",
       "detail": "The board voted unanimously to reinstate Jensen Huang, who resigned on November 12.",

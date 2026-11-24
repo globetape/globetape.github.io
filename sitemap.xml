@@ -9,10 +9,15 @@
 <url><loc>https://globetape.github.io/corrections/</loc></url>
 <url><loc>https://globetape.github.io/places/united-states/</loc><lastmod>2026-11-24</lastmod></url>
 <url><loc>https://globetape.github.io/places/africa/</loc><lastmod>2026-11-20</lastmod></url>
+<url><loc>https://globetape.github.io/places/chile/</loc><lastmod>2026-11-24</lastmod></url>
 <url><loc>https://globetape.github.io/places/lesotho/</loc><lastmod>2026-11-19</lastmod></url>
 <url><loc>https://globetape.github.io/places/norway/</loc><lastmod>2026-11-23</lastmod></url>
 <url><loc>https://globetape.github.io/places/russia/</loc><lastmod>2026-11-23</lastmod></url>
 <url><loc>https://globetape.github.io/places/ukraine/</loc><lastmod>2026-11-21</lastmod></url>
+<url><loc>https://globetape.github.io/es/videos/chile-length/</loc><lastmod>2026-11-24</lastmod></url>
+<url><loc>https://globetape.github.io/pt/videos/chile-length/</loc><lastmod>2026-11-24</lastmod></url>
+<url><loc>https://globetape.github.io/fr/videos/chile-length/</loc><lastmod>2026-11-24</lastmod></url>
+<url><loc>https://globetape.github.io/de/videos/chile-length/</loc><lastmod>2026-11-24</lastmod></url>
 <url><loc>https://globetape.github.io/es/videos/norway-sweden/</loc><lastmod>2026-11-23</lastmod></url>
 <url><loc>https://globetape.github.io/pt/videos/norway-sweden/</loc><lastmod>2026-11-23</lastmod></url>
 <url><loc>https://globetape.github.io/fr/videos/norway-sweden/</loc><lastmod>2026-11-23</lastmod></url>
@@ -39,10 +44,13 @@
 <url><loc>https://globetape.github.io/de/videos/lesotho/</loc><lastmod>2026-11-19</lastmod></url>
 <url><loc>https://globetape.github.io/series/borders/</loc><lastmod>2026-11-21</lastmod></url>
 <url><loc>https://globetape.github.io/series/oddities/</loc><lastmod>2026-11-23</lastmod></url>
-<url><loc>https://globetape.github.io/series/truesize/</loc><lastmod>2026-11-20</lastmod></url>
+<url><loc>https://globetape.github.io/series/truesize/</loc><lastmod>2026-11-24</lastmod></url>
 <url><loc>https://globetape.github.io/series/history/</loc><lastmod>2026-11-22</lastmod></url>
 <url><loc>https://globetape.github.io/series/riches/</loc><lastmod>2026-11-23</lastmod></url>
 <url><loc>https://globetape.github.io/series/world-today/</loc><lastmod>2026-11-24</lastmod></url>
+<url><loc>https://globetape.github.io/videos/chile-length/</loc><lastmod>2026-11-24</lastmod>
+  <image:image><image:loc>https://globetape.github.io/thumbs/chile-length.jpg</image:loc></image:image>
+  <video:video><video:thumbnail_loc>https://globetape.github.io/thumbs/chile-length.jpg</video:thumbnail_loc><video:title>Chile Is Longer Than Lisbon to Moscow</video:title><video:description>How long is Chile? 4,270 km from north to south, but only 177 km wide on average. Lay it over Europe with its southern tip on Lisbon and it doesn't stop at Moscow: it keeps going for another 360 km, crossing ten countries on the way.</video:description><video:player_loc>https://www.youtube.com/embed/Rhv_-F-Rd40</video:player_loc><video:duration>40</video:duration><video:publication_date>2026-11-24T18:00:00Z</video:publication_date><video:family_friendly>yes</video:family_friendly></video:video></url>
 <url><loc>https://globetape.github.io/videos/world-today-2026-11-23-h/</loc><lastmod>2026-11-24</lastmod>
   <image:image><image:loc>https://globetape.github.io/thumbs/world-today-2026-11-23-h.jpg</image:loc></image:image>
   <video:video><video:thumbnail_loc>https://globetape.github.io/thumbs/world-today-2026-11-23-h.jpg</video:thumbnail_loc><video:title>Nvidia Brings Back Jensen Huang | World News, Nov 23</video:title><video:description>Nvidia's board voted unanimously to reinstate Jensen Huang as CEO, and its shares closed more than 31% higher on Monday.</video:description><video:player_loc>https://www.youtube.com/embed/0OTg5656th8</video:player_loc><video:duration>119</video:duration><video:publication_date>2026-11-24T06:28:46Z</video:publication_date><video:family_friendly>yes</video:family_friendly></video:video></url>
