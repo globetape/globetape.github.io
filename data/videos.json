@@ -8,9 +8,35 @@
     "tagline": "Every place on Earth has a story on tape. We hit rewind.",
     "founded": "2026-11"
   },
-  "updated": "2026-11-23T23:00:00Z",
+  "updated": "2026-11-24T06:28:46Z",
   "nextRelease": "2026-11-24T18:00:00Z",
   "videos": [
+    {
+      "id": "world-today-2026-11-23-h",
+      "youtubeId": "0OTg5656th8",
+      "title": "Nvidia Brings Back Jensen Huang | World News, Nov 23",
+      "format": "long",
+      "series": "world-today",
+      "published": "2026-11-24T06:28:46Z",
+      "duration": 119,
+      "place": {
+        "name": "Santa Clara",
+        "lat": 37.354,
+        "lon": -121.955,
+        "country": "US"
+      },
+      "summary": "Nvidia's board voted unanimously to reinstate Jensen Huang as CEO, and its shares closed more than 31% higher on Monday.",
+      "url": "https://globetape.github.io/videos/world-today-2026-11-23-h/",
+      "sources": [
+        "NVIDIA · BBC",
+        "EFE · CARACOL RADIO",
+        "REUTERS · POLSKIE RADIO",
+        "ABC NEWS · CNBC",
+        "BBC · HINDUSTAN TIMES",
+        "REUTERS · XINHUA",
+        "YONHAP · KOREA TIMES"
+      ]
+    },
     {
       "id": "norway-sweden",
       "youtubeId": "QrwMeYyM95I",

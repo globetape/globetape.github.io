@@ -5,6 +5,7 @@
 Each video page on this site has the short answer, full transcript, chapters, sources and map credits. Neutral on wars and disputes: what happened and when. Full text of every transcript: https://globetape.github.io/llms-full.txt
 
 ## Videos
+- [Nvidia Brings Back Jensen Huang | World News, Nov 23](https://globetape.github.io/videos/world-today-2026-11-23-h/): Nvidia's board voted unanimously to reinstate Jensen Huang as CEO, and its shares closed more than 31% higher on Monday. (feature, 1:59, 2026-11-24, Santa Clara; YouTube: https://www.youtube.com/watch?v=0OTg5656th8)
 - [Why Is Norway Richer Than Sweden?](https://globetape.github.io/videos/norway-sweden/): Why is Norway so rich? In 1970 Sweden was 44% richer per person. Then the North Sea was split down the middle in 1965, Ekofisk was found on Norway's side in 1969, and Norway taxed the oil and saved it abroad: a fund now worth over $2 trillion. (Short, 0:40, 2026-11-23, Ekofisk, North Sea; YouTube: https://www.youtube.com/watch?v=QrwMeYyM95I)
 - [Kaliningrad: Why Does Russia Own It?](https://globetape.github.io/videos/kaliningrad/): Why does Russia own Kaliningrad, a piece of land squeezed between Poland and Lithuania, inside the EU and NATO and two countries away from the rest of Russia? We rewind to 1945, when it was still the German city of Königsberg. (Short, 0:41, 2026-11-23, Kaliningrad Oblast; YouTube: https://www.youtube.com/watch?v=SJb-IVBDslA)
 - [Russia Sold Alaska for 2 Cents an Acre](https://globetape.github.io/videos/alaska-sale/): Why did Russia sell Alaska? In 1867 it was hard to defend, far from St Petersburg and next door to British Canada, so Russia sold it to the United States for $7.2 million: about two cents an acre. Today Alaska pumps $7 million worth of oil every few hours. (Short, 0:37, 2026-11-22, Alaska; YouTube: https://www.youtube.com/watch?v=i47FW9FEceQ)
@@ -21,12 +22,12 @@ Each video page on this site has the short answer, full transcript, chapters, so
 - [World Today](https://globetape.github.io/series/world-today/): Daily world news explained on the map. World Today takes you west to east through the day's international headlines, from elections and diplomacy to climate and earthquakes. Each English-language briefing shows where the stories happened and why the geography matters.
 
 ## Places
+- [United States](https://globetape.github.io/places/united-states/): Nvidia Brings Back Jensen Huang | World News, Nov 23; Russia Sold Alaska for 2 Cents an Acre
 - [Africa](https://globetape.github.io/places/africa/): The True Size of Africa: US, India and EU Fit
 - [Lesotho](https://globetape.github.io/places/lesotho/): Lesotho: The Country Inside South Africa
 - [Norway](https://globetape.github.io/places/norway/): Why Is Norway Richer Than Sweden?
 - [Russia](https://globetape.github.io/places/russia/): Kaliningrad: Why Does Russia Own It?
 - [Ukraine](https://globetape.github.io/places/ukraine/): How Much of Ukraine Does Russia Control?
-- [United States](https://globetape.github.io/places/united-states/): Russia Sold Alaska for 2 Cents an Acre
 
 ## Reference
 - [Fact file](https://globetape.github.io/facts/): every figure in our videos with its source (also JSON: https://globetape.github.io/data/facts.json, CC BY 4.0)
