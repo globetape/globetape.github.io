@@ -8,9 +8,32 @@
     "tagline": "Every place on Earth has a story on tape. We hit rewind.",
     "founded": "2026-11"
   },
-  "updated": "2026-11-23T18:00:00Z",
-  "nextRelease": "2026-11-23T23:00:00Z",
+  "updated": "2026-11-23T23:00:00Z",
+  "nextRelease": "2026-11-24T18:00:00Z",
   "videos": [
+    {
+      "id": "norway-sweden",
+      "youtubeId": "QrwMeYyM95I",
+      "title": "Why Is Norway Richer Than Sweden?",
+      "format": "shorts",
+      "series": "riches",
+      "published": "2026-11-23T23:00:00Z",
+      "duration": 40,
+      "place": {
+        "name": "Ekofisk, North Sea",
+        "country": "NO",
+        "lat": 56.55,
+        "lon": 3.21
+      },
+      "summary": "Why is Norway so rich? In 1970 Sweden was 44% richer per person. Then the North Sea was split down the middle in 1965, Ekofisk was found on Norway's side in 1969, and Norway taxed the oil and saved it abroad: a fund now worth over $2 trillion.",
+      "url": "https://globetape.github.io/videos/norway-sweden/",
+      "sources": [
+        "World Bank (GDP per capita, current US$)",
+        "Norwegian Petroleum (Norsk Petroleum)",
+        "Norges Bank Investment Management",
+        "Marine Regions (VLIZ)"
+      ]
+    },
     {
       "id": "kaliningrad",
       "youtubeId": "SJb-IVBDslA",

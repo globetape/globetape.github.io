@@ -3,6 +3,62 @@
   "source": "https://globetape.github.io/facts/",
   "facts": [
     {
+      "label": "GDP per person in 1970",
+      "value": "Sweden $4,729 · Norway $3,291",
+      "detail": "In current US dollars, Sweden was about 44% richer per person than Norway.",
+      "source": "World Bank",
+      "video": "https://globetape.github.io/videos/norway-sweden/",
+      "videoTitle": "Why Is Norway Richer Than Sweden?"
+    },
+    {
+      "label": "GDP per person in 2024",
+      "value": "Norway $89,889 · Sweden $57,223",
+      "detail": "In current US dollars. The order flipped in the decades after North Sea oil.",
+      "source": "World Bank",
+      "video": "https://globetape.github.io/videos/norway-sweden/",
+      "videoTitle": "Why Is Norway Richer Than Sweden?"
+    },
+    {
+      "label": "Norway's geologists on offshore oil",
+      "value": "1958: ruled out",
+      "detail": "The Geological Survey of Norway wrote to the Ministry of Foreign Affairs that finding coal, oil or sulphur on the continental shelf could be discounted.",
+      "source": "Norwegian Petroleum (Norsk Petroleum)",
+      "video": "https://globetape.github.io/videos/norway-sweden/",
+      "videoTitle": "Why Is Norway Richer Than Sweden?"
+    },
+    {
+      "label": "North Sea split by the median line",
+      "value": "1965",
+      "detail": "Agreements with the United Kingdom (March) and Denmark (December) divided the continental shelf along the median line.",
+      "source": "Norwegian Petroleum (Norsk Petroleum)",
+      "video": "https://globetape.github.io/videos/norway-sweden/",
+      "videoTitle": "Why Is Norway Richer Than Sweden?"
+    },
+    {
+      "label": "Ekofisk discovered",
+      "value": "Late 1969",
+      "detail": "Phillips Petroleum reported it just before Christmas. One of the largest offshore oil fields ever discovered; production began on 15 June 1971.",
+      "source": "Norwegian Petroleum (Norsk Petroleum)",
+      "video": "https://globetape.github.io/videos/norway-sweden/",
+      "videoTitle": "Why Is Norway Richer Than Sweden?"
+    },
+    {
+      "label": "Marginal tax rate on oil profits",
+      "value": "78%",
+      "detail": "The ordinary 22% company tax plus a special petroleum tax.",
+      "source": "Norwegian Petroleum (Norsk Petroleum)",
+      "video": "https://globetape.github.io/videos/norway-sweden/",
+      "videoTitle": "Why Is Norway Richer Than Sweden?"
+    },
+    {
+      "label": "Norway's oil fund (30 September 2026)",
+      "value": "NOK 22,014 billion",
+      "detail": "About $2.3 trillion. The fund invests only abroad, so the Norwegian economy does not overheat.",
+      "source": "Norges Bank Investment Management",
+      "video": "https://globetape.github.io/videos/norway-sweden/",
+      "videoTitle": "Why Is Norway Richer Than Sweden?"
+    },
+    {
       "label": "Former name",
       "value": "Königsberg",
       "detail": "Until 1945 the city was German, part of East Prussia.",
