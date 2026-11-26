@@ -8,9 +8,32 @@
     "tagline": "Every place on Earth has a story on tape. We hit rewind.",
     "founded": "2026-11"
   },
-  "updated": "2026-11-24T18:00:00Z",
-  "nextRelease": "2026-11-25T18:00:00Z",
+  "updated": "2026-11-25T18:00:00Z",
+  "nextRelease": "2026-11-26T18:00:00Z",
   "videos": [
+    {
+      "id": "korea-38",
+      "youtubeId": "glrslVz1Xrs",
+      "title": "Did the Korean War Ever Really End?",
+      "format": "shorts",
+      "series": "borders",
+      "published": "2026-11-25T18:00:00Z",
+      "duration": 39,
+      "place": {
+        "name": "Korean Demilitarized Zone",
+        "lat": 38,
+        "lon": 127.5
+      },
+      "summary": "Did the Korean War ever really end? The fighting stopped on 27 July 1953 with an armistice, a military ceasefire, but no peace treaty has ever been signed. And the border it left isn't the 38th parallel: it's where the front line froze.",
+      "url": "https://globetape.github.io/videos/korea-38/",
+      "sources": [
+        "United Nations Command",
+        "US National Archives",
+        "US Office of the Historian",
+        "BBC",
+        "Reuters"
+      ]
+    },
     {
       "id": "chile-length",
       "youtubeId": "Rhv_-F-Rd40",

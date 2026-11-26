@@ -5,6 +5,7 @@
 Each video page on this site has the short answer, full transcript, chapters, sources and map credits. Neutral on wars and disputes: what happened and when. Full text of every transcript: https://globetape.github.io/llms-full.txt
 
 ## Videos
+- [Did the Korean War Ever Really End?](https://globetape.github.io/videos/korea-38/): Did the Korean War ever really end? The fighting stopped on 27 July 1953 with an armistice, a military ceasefire, but no peace treaty has ever been signed. And the border it left isn't the 38th parallel: it's where the front line froze. (Short, 0:39, 2026-11-25, Korean Demilitarized Zone; YouTube: https://www.youtube.com/watch?v=glrslVz1Xrs)
 - [Chile Is Longer Than Lisbon to Moscow](https://globetape.github.io/videos/chile-length/): How long is Chile? 4,270 km from north to south, but only 177 km wide on average. Lay it over Europe with its southern tip on Lisbon and it doesn't stop at Moscow: it keeps going for another 360 km, crossing ten countries on the way. (Short, 0:40, 2026-11-24, Chile; YouTube: https://www.youtube.com/watch?v=Rhv_-F-Rd40)
 - [Nvidia Brings Back Jensen Huang | World News, Nov 23](https://globetape.github.io/videos/world-today-2026-11-23-h/): Nvidia's board voted unanimously to reinstate Jensen Huang as CEO, and its shares closed more than 31% higher on Monday. (feature, 1:59, 2026-11-24, Santa Clara; YouTube: https://www.youtube.com/watch?v=0OTg5656th8)
 - [Why Is Norway Richer Than Sweden?](https://globetape.github.io/videos/norway-sweden/): Why is Norway so rich? In 1970 Sweden was 44% richer per person. Then the North Sea was split down the middle in 1965, Ekofisk was found on Norway's side in 1969, and Norway taxed the oil and saved it abroad: a fund now worth over $2 trillion. (Short, 0:40, 2026-11-23, Ekofisk, North Sea; YouTube: https://www.youtube.com/watch?v=QrwMeYyM95I)
@@ -26,6 +27,7 @@ Each video page on this site has the short answer, full transcript, chapters, so
 - [United States](https://globetape.github.io/places/united-states/): Nvidia Brings Back Jensen Huang | World News, Nov 23; Russia Sold Alaska for 2 Cents an Acre
 - [Africa](https://globetape.github.io/places/africa/): The True Size of Africa: US, India and EU Fit
 - [Chile](https://globetape.github.io/places/chile/): Chile Is Longer Than Lisbon to Moscow
+- [Korean Demilitarized Zone](https://globetape.github.io/places/korean-demilitarized-zone/): Did the Korean War Ever Really End?
 - [Lesotho](https://globetape.github.io/places/lesotho/): Lesotho: The Country Inside South Africa
 - [Norway](https://globetape.github.io/places/norway/): Why Is Norway Richer Than Sweden?
 - [Russia](https://globetape.github.io/places/russia/): Kaliningrad: Why Does Russia Own It?

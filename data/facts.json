@@ -3,6 +3,62 @@
   "source": "https://globetape.github.io/facts/",
   "facts": [
     {
+      "label": "38th parallel proposed",
+      "value": "10–11 August 1945",
+      "detail": "Two US colonels, Charles Bonesteel and Dean Rusk, proposed the line overnight at the Pentagon.",
+      "source": "US Office of the Historian",
+      "video": "https://globetape.github.io/videos/korea-38/",
+      "videoTitle": "Did the Korean War Ever Really End?"
+    },
+    {
+      "label": "War begins",
+      "value": "25 June 1950",
+      "detail": "North Korean forces crossed the 38th parallel.",
+      "source": "United Nations Command",
+      "video": "https://globetape.github.io/videos/korea-38/",
+      "videoTitle": "Did the Korean War Ever Really End?"
+    },
+    {
+      "label": "Armistice signed",
+      "value": "27 July 1953",
+      "detail": "Signed at 10:00 at Panmunjom; it came into force at 22:00 the same day.",
+      "source": "US National Archives",
+      "video": "https://globetape.github.io/videos/korea-38/",
+      "videoTitle": "Did the Korean War Ever Really End?"
+    },
+    {
+      "label": "Signatories",
+      "value": "U.N. Command, North Korea, China",
+      "detail": "The armistice is a military agreement; South Korea did not sign it.",
+      "source": "BBC",
+      "video": "https://globetape.github.io/videos/korea-38/",
+      "videoTitle": "Did the Korean War Ever Really End?"
+    },
+    {
+      "label": "Peace treaty",
+      "value": "None signed",
+      "detail": "A permanent peace treaty has never been signed, so the peninsula technically remains in a state of war.",
+      "source": "United Nations Command",
+      "video": "https://globetape.github.io/videos/korea-38/",
+      "videoTitle": "Did the Korean War Ever Really End?"
+    },
+    {
+      "label": "Width of the DMZ",
+      "value": "4 km",
+      "detail": "The Demilitarized Zone extends 2 km on each side of the Military Demarcation Line.",
+      "source": "US National Archives",
+      "video": "https://globetape.github.io/videos/korea-38/",
+      "videoTitle": "Did the Korean War Ever Really End?"
+    },
+    {
+      "label": "Border vs. 38th parallel",
+      "value": "Crosses it",
+      "detail": "The 1953 line runs south of the parallel in the west and north of it in the east.",
+      "source": null,
+      "video": "https://globetape.github.io/videos/korea-38/",
+      "videoTitle": "Did the Korean War Ever Really End?"
+    },
+    {
       "label": "Length of Chile",
       "value": "4,270 km",
       "detail": "Measured from north to south along the country.",
