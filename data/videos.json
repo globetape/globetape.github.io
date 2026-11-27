@@ -8,9 +8,34 @@
     "tagline": "Every place on Earth has a story on tape. We hit rewind.",
     "founded": "2026-11"
   },
-  "updated": "2026-11-26T18:00:00Z",
+  "updated": "2026-11-27T05:22:55Z",
   "nextRelease": "2026-11-27T18:00:00Z",
   "videos": [
+    {
+      "id": "world-today-2026-11-26-h",
+      "youtubeId": "E8BqJCelNDw",
+      "title": "Macy's Parade Postponed by Thanksgiving Storm | World News",
+      "format": "long",
+      "series": "world-today",
+      "published": "2026-11-27T05:22:55Z",
+      "duration": 117,
+      "place": {
+        "name": "New York",
+        "lat": 40.713,
+        "lon": -74.006,
+        "country": "US"
+      },
+      "summary": "A Thanksgiving storm postponed the Macy's parade for the first time in its 100-year history and left more than 900,000 US homes and businesses without power.",
+      "url": "https://globetape.github.io/videos/world-today-2026-11-26-h/",
+      "sources": [
+        "CBS NEWS · AFP",
+        "AGÊNCIA BRASIL · G1",
+        "ONS · BBC",
+        "AP · REUTERS",
+        "CNN · AFP (DAWN)",
+        "RNZ · ABC NEWS (AU)"
+      ]
+    },
     {
       "id": "turkey-name",
       "youtubeId": "99ag8T8wPb0",

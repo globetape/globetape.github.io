@@ -3,6 +3,54 @@
   "source": "https://globetape.github.io/facts/",
   "facts": [
     {
+      "label": "United States · Storm",
+      "value": "Storm delays macy's 100th parade",
+      "detail": "Wind and rain hit the East Coast on Thursday, leaving over 900,000 homes and businesses without power.",
+      "source": "CBS NEWS · AFP",
+      "video": "https://globetape.github.io/videos/world-today-2026-11-26-h/",
+      "videoTitle": "Macy's Parade Postponed by Thanksgiving Storm | World News"
+    },
+    {
+      "label": "Brazil · Economy",
+      "value": "Banker to run brazil's finances",
+      "detail": "Investors welcomed the pick: the Ibovespa jumped 6.07 percent, its biggest daily gain since just after the election's first round.",
+      "source": "AGÊNCIA BRASIL · G1",
+      "video": "https://globetape.github.io/videos/world-today-2026-11-26-h/",
+      "videoTitle": "Macy's Parade Postponed by Thanksgiving Storm | World News"
+    },
+    {
+      "label": "United Kingdom · Migration",
+      "value": "Uk net migration at 1997 low",
+      "detail": "That is down from 204,000 a year earlier, and the lowest since 1997 outside the pandemic.",
+      "source": "ONS · BBC",
+      "video": "https://globetape.github.io/videos/world-today-2026-11-26-h/",
+      "videoTitle": "Macy's Parade Postponed by Thanksgiving Storm | World News"
+    },
+    {
+      "label": "Dr Congo · Ebola",
+      "value": "Congo's ebola cases pass 12,000",
+      "detail": "Of 12,021 confirmed cases, 5,904 people have died.",
+      "source": "AP · REUTERS",
+      "video": "https://globetape.github.io/videos/world-today-2026-11-26-h/",
+      "videoTitle": "Macy's Parade Postponed by Thanksgiving Storm | World News"
+    },
+    {
+      "label": "Kuwait · Iran",
+      "value": "Drone attack in kuwait kills two",
+      "detail": "Kuwait and Italy blamed Iranian drones; a Kuwaiti and a Pakistani were also wounded.",
+      "source": "CNN · AFP (DAWN)",
+      "video": "https://globetape.github.io/videos/world-today-2026-11-26-h/",
+      "videoTitle": "Macy's Parade Postponed by Thanksgiving Storm | World News"
+    },
+    {
+      "label": "New Zealand · Election",
+      "value": "Nz coalition one seat short",
+      "detail": "His three parties have 65 seats, as many as the opposition and centrist Opportunity combined.",
+      "source": "RNZ · ABC NEWS (AU)",
+      "video": "https://globetape.github.io/videos/world-today-2026-11-26-h/",
+      "videoTitle": "Macy's Parade Postponed by Thanksgiving Storm | World News"
+    },
+    {
       "label": "English: turkey",
       "value": "After the Ottoman lands",
       "detail": "The name was first used in the 1540s for the guinea fowl, which arrived through Ottoman territory, and passed to the American bird in the 1550s through confusion between the two.",
