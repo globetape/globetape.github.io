@@ -5,6 +5,7 @@
 Each video page on this site has the short answer, full transcript, chapters, sources and map credits. Neutral on wars and disputes: what happened and when. Full text of every transcript: https://globetape.github.io/llms-full.txt
 
 ## Videos
+- [The Turkey Isn't From Türkiye, India or Peru](https://globetape.github.io/videos/turkey-name/): Why is a turkey called a turkey? It's a North American bird, yet English names it like the country, Turkish (hindi) and French (dinde) name it after India, Dutch after Calicut and Portuguese after Peru. Every farm turkey traces back to Mexico. (Short, 0:29, 2026-11-26, Türkiye; YouTube: https://www.youtube.com/watch?v=99ag8T8wPb0)
 - [Iowa Lead Azide Detonation: 4,500 kg Destroyed | World News, Nov 25](https://globetape.github.io/videos/world-today-2026-11-25-h/): The US Army destroyed about 4,500 kilograms of degraded lead azide at an Iowa ammunition plant, and early EPA readings showed no airborne lead. (feature, 1:54, 2026-11-26, Middletown; YouTube: https://www.youtube.com/watch?v=CvbJjw6NrsQ)
 - [Did the Korean War Ever Really End?](https://globetape.github.io/videos/korea-38/): Did the Korean War ever really end? The fighting stopped on 27 July 1953 with an armistice, a military ceasefire, but no peace treaty has ever been signed. And the border it left isn't the 38th parallel: it's where the front line froze. (Short, 0:39, 2026-11-25, Korean Demilitarized Zone; YouTube: https://www.youtube.com/watch?v=glrslVz1Xrs)
 - [Chile Is Longer Than Lisbon to Moscow](https://globetape.github.io/videos/chile-length/): How long is Chile? 4,270 km from north to south, but only 177 km wide on average. Lay it over Europe with its southern tip on Lisbon and it doesn't stop at Moscow: it keeps going for another 360 km, crossing ten countries on the way. (Short, 0:40, 2026-11-24, Chile; YouTube: https://www.youtube.com/watch?v=Rhv_-F-Rd40)
@@ -32,6 +33,7 @@ Each video page on this site has the short answer, full transcript, chapters, so
 - [Lesotho](https://globetape.github.io/places/lesotho/): Lesotho: The Country Inside South Africa
 - [Norway](https://globetape.github.io/places/norway/): Why Is Norway Richer Than Sweden?
 - [Russia](https://globetape.github.io/places/russia/): Kaliningrad: Why Does Russia Own It?
+- [Türkiye](https://globetape.github.io/places/turkiye/): The Turkey Isn't From Türkiye, India or Peru
 - [Ukraine](https://globetape.github.io/places/ukraine/): How Much of Ukraine Does Russia Control?
 
 ## Reference

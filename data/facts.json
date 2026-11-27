@@ -3,6 +3,62 @@
   "source": "https://globetape.github.io/facts/",
   "facts": [
     {
+      "label": "English: turkey",
+      "value": "After the Ottoman lands",
+      "detail": "The name was first used in the 1540s for the guinea fowl, which arrived through Ottoman territory, and passed to the American bird in the 1550s through confusion between the two.",
+      "source": "Online Etymology Dictionary",
+      "video": "https://globetape.github.io/videos/turkey-name/",
+      "videoTitle": "The Turkey Isn't From Türkiye, India or Peru"
+    },
+    {
+      "label": "Turkish: hindi",
+      "value": "\"Indian, of India\"",
+      "detail": "From Hind or Hindistan, probably modelled on the French word dinde.",
+      "source": "Online Etymology Dictionary",
+      "video": "https://globetape.github.io/videos/turkey-name/",
+      "videoTitle": "The Turkey Isn't From Türkiye, India or Peru"
+    },
+    {
+      "label": "French: dinde",
+      "value": "\"Of India\"",
+      "detail": "From poule or coq d'Inde, recorded between 1542 and 1552, a name first used for the guinea fowl.",
+      "source": "TLFi (CNRTL)",
+      "video": "https://globetape.github.io/videos/turkey-name/",
+      "videoTitle": "The Turkey Isn't From Türkiye, India or Peru"
+    },
+    {
+      "label": "Dutch: kalkoen",
+      "value": "After Calicut",
+      "detail": "From Calkoensche hinne, \"hen of Calicut\" (1567–1573); the Indian port is now called Kozhikode, in Kerala.",
+      "source": "Etymologisch Woordenboek van het Nederlands",
+      "video": "https://globetape.github.io/videos/turkey-name/",
+      "videoTitle": "The Turkey Isn't From Türkiye, India or Peru"
+    },
+    {
+      "label": "Portuguese: peru",
+      "value": "Probably after Peru",
+      "detail": "Dictionaries trace it, with some caution, to the place name Peru, then used for all of Spanish America.",
+      "source": "Priberam",
+      "video": "https://globetape.github.io/videos/turkey-name/",
+      "videoTitle": "The Turkey Isn't From Türkiye, India or Peru"
+    },
+    {
+      "label": "Where every farm turkey comes from",
+      "value": "South-central Mexico",
+      "detail": "All of today's domestic turkeys descend from birds domesticated there; the Spanish brought them to Europe in the early 16th century.",
+      "source": "Speller et al., PNAS 2010",
+      "video": "https://globetape.github.io/videos/turkey-name/",
+      "videoTitle": "The Turkey Isn't From Türkiye, India or Peru"
+    },
+    {
+      "label": "Mexican Spanish: guajolote",
+      "value": "From Nahuatl huexolotl",
+      "detail": "The word is used in Mexico, El Salvador and Honduras.",
+      "source": "RAE",
+      "video": "https://globetape.github.io/videos/turkey-name/",
+      "videoTitle": "The Turkey Isn't From Türkiye, India or Peru"
+    },
+    {
       "label": "United States · Iowa",
       "value": "Army detonates unstable explosive",
       "detail": "The degraded explosive risked going off on its own as temperatures dropped, so about 4,500 kilograms were destroyed.",

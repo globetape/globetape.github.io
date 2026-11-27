@@ -8,9 +8,35 @@
     "tagline": "Every place on Earth has a story on tape. We hit rewind.",
     "founded": "2026-11"
   },
-  "updated": "2026-11-26T05:21:10Z",
-  "nextRelease": "2026-11-26T18:00:00Z",
+  "updated": "2026-11-26T18:00:00Z",
+  "nextRelease": "2026-11-27T18:00:00Z",
   "videos": [
+    {
+      "id": "turkey-name",
+      "youtubeId": "99ag8T8wPb0",
+      "title": "The Turkey Isn't From Türkiye, India or Peru",
+      "format": "shorts",
+      "series": "oddities",
+      "published": "2026-11-26T18:00:00Z",
+      "duration": 29,
+      "place": {
+        "name": "Türkiye",
+        "country": "TR",
+        "lat": 39,
+        "lon": 35
+      },
+      "summary": "Why is a turkey called a turkey? It's a North American bird, yet English names it like the country, Turkish (hindi) and French (dinde) name it after India, Dutch after Calicut and Portuguese after Peru. Every farm turkey traces back to Mexico.",
+      "url": "https://globetape.github.io/videos/turkey-name/",
+      "sources": [
+        "Online Etymology Dictionary",
+        "TLFi (CNRTL)",
+        "Etymologisch Woordenboek van het Nederlands",
+        "Priberam",
+        "Caldas Aulete",
+        "Speller et al., PNAS 2010",
+        "RAE"
+      ]
+    },
     {
       "id": "world-today-2026-11-25-h",
       "youtubeId": "CvbJjw6NrsQ",

@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 480">
+  <rect width="640" height="480" fill="#8e4a1f"/>
+  <path d="M320,600 L-440.0,600.0 L-394.2,340.1 Z" fill="#c0392b"/>
+  <path d="M320,600 L-394.2,340.1 L-262.2,111.5 Z" fill="#e67e22"/>
+  <path d="M320,600 L-262.2,111.5 L-60.0,-58.2 Z" fill="#f1c40f"/>
+  <path d="M320,600 L-60.0,-58.2 L188.0,-148.5 Z" fill="#8e4a1f"/>
+  <path d="M320,600 L188.0,-148.5 L452.0,-148.5 Z" fill="#c0392b"/>
+  <path d="M320,600 L452.0,-148.5 L700.0,-58.2 Z" fill="#e67e22"/>
+  <path d="M320,600 L700.0,-58.2 L902.2,111.5 Z" fill="#f1c40f"/>
+  <path d="M320,600 L902.2,111.5 L1034.2,340.1 Z" fill="#8e4a1f"/>
+  <path d="M320,600 L1034.2,340.1 L1080.0,600.0 Z" fill="#c0392b"/>
+  <line x1="320" y1="600" x2="-394.2" y2="340.1" stroke="#5a2a0c" stroke-width="10"/>
+  <line x1="320" y1="600" x2="-262.2" y2="111.5" stroke="#5a2a0c" stroke-width="10"/>
+  <line x1="320" y1="600" x2="-60.0" y2="-58.2" stroke="#5a2a0c" stroke-width="10"/>
+  <line x1="320" y1="600" x2="188.0" y2="-148.5" stroke="#5a2a0c" stroke-width="10"/>
+  <line x1="320" y1="600" x2="452.0" y2="-148.5" stroke="#5a2a0c" stroke-width="10"/>
+  <line x1="320" y1="600" x2="700.0" y2="-58.2" stroke="#5a2a0c" stroke-width="10"/>
+  <line x1="320" y1="600" x2="902.2" y2="111.5" stroke="#5a2a0c" stroke-width="10"/>
+  <line x1="320" y1="600" x2="1034.2" y2="340.1" stroke="#5a2a0c" stroke-width="10"/>
+  <ellipse cx="320" cy="310" rx="190" ry="215" fill="#d9a066" stroke="#5a2a0c" stroke-width="10"/>
+  <path d="M292,232 L348,232 L320,274 Z" fill="#f2a516" stroke="#5a2a0c" stroke-width="5" stroke-linejoin="round"/>
+  <path d="M338,240 C368,252 370,302 350,322 C334,302 330,264 338,240 Z" fill="#d62b2b"/>
+</svg>
