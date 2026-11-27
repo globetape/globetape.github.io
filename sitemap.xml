@@ -10,12 +10,22 @@
 <url><loc>https://globetape.github.io/places/united-states/</loc><lastmod>2026-11-27</lastmod></url>
 <url><loc>https://globetape.github.io/places/africa/</loc><lastmod>2026-11-20</lastmod></url>
 <url><loc>https://globetape.github.io/places/chile/</loc><lastmod>2026-11-24</lastmod></url>
+<url><loc>https://globetape.github.io/places/greenland/</loc><lastmod>2026-11-27</lastmod></url>
 <url><loc>https://globetape.github.io/places/korean-demilitarized-zone/</loc><lastmod>2026-11-25</lastmod></url>
 <url><loc>https://globetape.github.io/places/lesotho/</loc><lastmod>2026-11-19</lastmod></url>
 <url><loc>https://globetape.github.io/places/norway/</loc><lastmod>2026-11-23</lastmod></url>
+<url><loc>https://globetape.github.io/places/panama/</loc><lastmod>2026-11-27</lastmod></url>
 <url><loc>https://globetape.github.io/places/russia/</loc><lastmod>2026-11-23</lastmod></url>
 <url><loc>https://globetape.github.io/places/turkiye/</loc><lastmod>2026-11-26</lastmod></url>
 <url><loc>https://globetape.github.io/places/ukraine/</loc><lastmod>2026-11-21</lastmod></url>
+<url><loc>https://globetape.github.io/es/videos/panama-canal/</loc><lastmod>2026-11-27</lastmod></url>
+<url><loc>https://globetape.github.io/pt/videos/panama-canal/</loc><lastmod>2026-11-27</lastmod></url>
+<url><loc>https://globetape.github.io/fr/videos/panama-canal/</loc><lastmod>2026-11-27</lastmod></url>
+<url><loc>https://globetape.github.io/de/videos/panama-canal/</loc><lastmod>2026-11-27</lastmod></url>
+<url><loc>https://globetape.github.io/es/videos/greenland-size/</loc><lastmod>2026-11-27</lastmod></url>
+<url><loc>https://globetape.github.io/pt/videos/greenland-size/</loc><lastmod>2026-11-27</lastmod></url>
+<url><loc>https://globetape.github.io/fr/videos/greenland-size/</loc><lastmod>2026-11-27</lastmod></url>
+<url><loc>https://globetape.github.io/de/videos/greenland-size/</loc><lastmod>2026-11-27</lastmod></url>
 <url><loc>https://globetape.github.io/es/videos/turkey-name/</loc><lastmod>2026-11-26</lastmod></url>
 <url><loc>https://globetape.github.io/pt/videos/turkey-name/</loc><lastmod>2026-11-26</lastmod></url>
 <url><loc>https://globetape.github.io/fr/videos/turkey-name/</loc><lastmod>2026-11-26</lastmod></url>
@@ -54,10 +64,16 @@
 <url><loc>https://globetape.github.io/de/videos/lesotho/</loc><lastmod>2026-11-19</lastmod></url>
 <url><loc>https://globetape.github.io/series/borders/</loc><lastmod>2026-11-25</lastmod></url>
 <url><loc>https://globetape.github.io/series/oddities/</loc><lastmod>2026-11-26</lastmod></url>
-<url><loc>https://globetape.github.io/series/truesize/</loc><lastmod>2026-11-24</lastmod></url>
-<url><loc>https://globetape.github.io/series/history/</loc><lastmod>2026-11-22</lastmod></url>
+<url><loc>https://globetape.github.io/series/truesize/</loc><lastmod>2026-11-27</lastmod></url>
+<url><loc>https://globetape.github.io/series/history/</loc><lastmod>2026-11-27</lastmod></url>
 <url><loc>https://globetape.github.io/series/riches/</loc><lastmod>2026-11-23</lastmod></url>
 <url><loc>https://globetape.github.io/series/world-today/</loc><lastmod>2026-11-27</lastmod></url>
+<url><loc>https://globetape.github.io/videos/panama-canal/</loc><lastmod>2026-11-27</lastmod>
+  <image:image><image:loc>https://globetape.github.io/thumbs/panama-canal.jpg</image:loc></image:image>
+  <video:video><video:thumbnail_loc>https://globetape.github.io/thumbs/panama-canal.jpg</video:thumbnail_loc><video:title>How the US Got the Panama Canal (and Gave It Back)</video:title><video:description>Panama Canal history starts with a surprising map: a 1903 treaty gave the United States sweeping powers over a strip across Panama. The Canal Zone ended in 1979; the waterway itself was handed over in 1999.</video:description><video:player_loc>https://www.youtube.com/embed/jWkI3rAVd1s</video:player_loc><video:duration>501</video:duration><video:publication_date>2026-11-27T20:00:00Z</video:publication_date><video:family_friendly>yes</video:family_friendly></video:video></url>
+<url><loc>https://globetape.github.io/videos/greenland-size/</loc><lastmod>2026-11-27</lastmod>
+  <image:image><image:loc>https://globetape.github.io/thumbs/greenland-size.jpg</image:loc></image:image>
+  <video:video><video:thumbnail_loc>https://globetape.github.io/thumbs/greenland-size.jpg</video:thumbnail_loc><video:title>Greenland Is Smaller Than You Think</video:title><video:description>What is Greenland's real size? 2.17 million km²: the world's largest island, yet smaller than Algeria (2.38 million km²). On a Mercator map it looks nearly 12 times bigger than Algeria, because the projection stretches land near the poles.</video:description><video:player_loc>https://www.youtube.com/embed/c8n68ip57bg</video:player_loc><video:duration>32</video:duration><video:publication_date>2026-11-27T18:00:00Z</video:publication_date><video:family_friendly>yes</video:family_friendly></video:video></url>
 <url><loc>https://globetape.github.io/videos/world-today-2026-11-26-h/</loc><lastmod>2026-11-27</lastmod>
   <image:image><image:loc>https://globetape.github.io/thumbs/world-today-2026-11-26-h.jpg</image:loc></image:image>
   <video:video><video:thumbnail_loc>https://globetape.github.io/thumbs/world-today-2026-11-26-h.jpg</video:thumbnail_loc><video:title>Macy's Parade Postponed by Thanksgiving Storm | World News</video:title><video:description>A Thanksgiving storm postponed the Macy's parade for the first time in its 100-year history and left more than 900,000 US homes and businesses without power.</video:description><video:player_loc>https://www.youtube.com/embed/E8BqJCelNDw</video:player_loc><video:duration>117</video:duration><video:publication_date>2026-11-27T05:22:55Z</video:publication_date><video:family_friendly>yes</video:family_friendly></video:video></url>

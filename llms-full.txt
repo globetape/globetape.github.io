@@ -2,6 +2,263 @@
 
 Source: https://globetape.github.io/ · https://www.youtube.com/@globetape
 
+## How the US Got the Panama Canal (and Gave It Back)
+
+URL: https://globetape.github.io/videos/panama-canal/
+YouTube: https://www.youtube.com/watch?v=jWkI3rAVd1s
+Published: 2026-11-27 · Duration: 8:21 · Place: Panama Canal
+Short answer: Panama Canal history starts with a surprising map: a 1903 treaty gave the United States sweeping powers over a strip across Panama. The Canal Zone ended in 1979; the waterway itself was handed over in 1999.
+
+Rewind the map from Panama's separation from Colombia and France's abandoned works to the locks at Gatún and the first official crossing in 1914. Follow the Canal Zone through the Torrijos–Carter treaties and the 1999 handover, then see how the Panama Canal Authority runs the waterway today.
+
+Key facts:
+- Atlantic entrance: ≈ 40 km farther west (The Atlantic entrance near Colón lies west of the Pacific entrance near Balboa.) [source: Encyclopaedia Britannica; OpenStreetMap geometry]
+- Treaty width: 10 miles (≈ 16 km) (The 1903 treaty specified five miles on each side and excluded the cities of Panama and Colón.) [source: Hay–Bunau-Varilla Treaty, Article II (Avalon Project)]
+- Gatún locks: 26 metres (Three chambers raise a ship from the Atlantic side to the level of Gatún Lake.) [source: Panama Canal Authority]
+- First official transit: 15 August 1914 (The SS Ancon made the official opening crossing.) [source: Panama Canal Authority]
+- Canal Zone abolished: 1 October 1979 (The canal itself continued operating under transitional arrangements.) [source: Office of the Historian, US Department of State]
+- Final handover: 31 December 1999 (Panama took full control of the canal at noon.) [source: Encyclopaedia Britannica; Office of the Historian]
+- Vessel transits: 13,951 in fiscal year 2026 (The fiscal year ran from October 2025 through September 2026.) [source: Panama Canal Authority, 21 October 2026]
+
+### How the US Got the Panama Canal and Gave It Back
+
+The Panama Canal is a shortcut between oceans, but the oddest thing on its map used to be the strip of land beside it. For about 75 years the United States administered the Panama Canal Zone with powers it could exercise as if it were sovereign. The zone ended in 1979. Panama took full control of the waterway at noon on 31 December 1999. Those were two different handovers, and the difference is the key to reading the map.
+
+## Start at the Atlantic entrance
+
+Imagine a ship entering from the Caribbean, on the Atlantic side. If you assume that its next ocean must lie west, look at the two entrances rather than the edges of the world map. Colón lies around 40 kilometres west of the Pacific end near Balboa. The route bends through the isthmus, but a ship crossing from Atlantic to Pacific travels generally southeast. The ocean names don't tell you which way to point the bow at this particular crossing.
+
+The canal follows a corridor people were using long before anyone could sail through it. In 1513, Vasco Núñez de Balboa crossed the isthmus and became the first European documented to see the Pacific from the Americas. He called it the South Sea. Under Spanish rule, gold and silver from Peru crossed the isthmus by mule and river. The Camino de Cruces used the Chagres River as well as a trail over land. The Camino Real connected the Pacific side to Caribbean ports, including Portobelo. In 1534, Spain's king ordered a study of a canal route near the Chagres. The study did not turn into a canal, but the river remained central to the problem.
+
+## A railroad, then a French canal attempt
+
+On 28 November 1821, Panama declared independence from Spain and joined the republic historians call Gran Colombia. After Gran Colombia broke up, the isthmus remained with New Granada, the predecessor of modern Colombia. That is why Panama's independence from Spain and its separation from Colombia are two different dates.
+
+The California gold rush made the crossing useful to people travelling between the coasts of the United States. They could take a ship to the isthmus, cross it and board another ship on the Pacific side. In January 1855 a railroad built by a New York company completed its first ocean-to-ocean run. The line was about 77 kilometres long. Its two ends could now be reached from the other ocean without a ship having to go all the way around South America, but the passengers and cargo still had to change vehicles. A railway could not take the ship itself across.
+
+Ferdinand de Lesseps, who had already built the Suez Canal, launched the French Panama project in 1880. The original plan was a sea-level passage without locks. In Panama the Chagres flooded, earth slid back into cuts and malaria and yellow fever devastated the workforce. By 1888 the French effort had switched to a plan with locks. The original company collapsed in February 1889. Death estimates for the French period vary, but the US Office of the Historian puts the toll at roughly 20,000. The abandoned works remained part of the next attempt.
+
+## Why Panama separated from Colombia in 1903
+
+The USS Oregon demonstrated the problem in 1898. It was in San Francisco while the United States headed for war with Spain and needed the battleship in the Caribbean. To get there the ship went around South America, passing through the Strait of Magellan. The US naval account gives the voyage as more than 14,000 miles in 66 days. A canal was a strategic proposition as well as a commercial one.
+
+Panama was not the only option. Many members of Congress favoured Nicaragua, where the lake and river would cover much of the route. Philippe Bunau-Varilla, a French engineer who backed Panama, sent senators a Nicaraguan stamp showing the Momotombo volcano in eruption. It was a striking image coming just after Mount Pelée destroyed Saint-Pierre on Martinique. In June 1902 the US Senate chose Panama by eight votes. Colombia's Senate rejected the proposed canal treaty the following year.
+
+On 2 November 1903, the American gunboat USS Nashville arrived at Colón. Colombian soldiers came ashore the next morning. The railroad carried their generals across the isthmus without their troops. The generals were arrested and Panama declared its separation on 3 November. The troops at Colón left on 5 November; the United States recognised Panama on 6 November.
+
+## What the Canal Zone was
+
+The treaty followed on 18 November 1903. Bunau-Varilla, a Frenchman representing Panama, signed before the other Panamanian delegates arrived in Washington. Article II granted the United States use, occupation and control of a zone ten miles wide in perpetuity. The cities of Panama and Colón were excluded. Article III gave the United States the powers it would have exercised if it were sovereign there. Those words matter: the map shows the extent of US administration, not a simple purchase of Panamanian territory.
+
+Imagine the canal line drawn first, then a much wider strip on top of it. The waterway was only part of the zone. The area had its own governor, courts, police, schools and postage stamps. In 1970 the US census counted a little over 44,000 residents. The boundary was part of daily life even for people who never boarded a ship.
+
+## How the locks lift ships over the isthmus
+
+The US took over the French works in May 1904. William Gorgas directed efforts to reduce mosquito-borne disease. The last case of yellow fever in Panama City was recorded in November 1905. In 1906 the US approved a lock canal. Rather than excavate the entire passage down to sea level, engineers dammed the Chagres at Gatún. The lake covered about 430 square kilometres and flooded several settlements, including Cruces on the old colonial route.
+
+At the Atlantic end, a ship enters a chamber and the gates close behind it. Water flows in and the ship rises with the surface. Three chambers raise it about 26 metres to the level of Gatún Lake. Beyond the lake comes the Culebra Cut, almost 14 kilometres across the continental divide. At the other end, Pedro Miguel and Miraflores lower the ship back toward the Pacific. The shortcut takes ships up and over the isthmus, not straight through it at sea level.
+
+Workers came from many places, including nearly 20,000 recruited from Barbados. The separate gold and silver payrolls reflected a system that also segregated housing and services. Hospital records from the US construction period counted 5,609 deaths. The SS Ancon made the first official crossing on 15 August 1914. A former French floating crane had already made a complete passage in January, before the official opening.
+
+## Why the return took twenty years
+
+On 9 January 1964, a confrontation over flags at a high school in the Canal Zone escalated. More than twenty Panamanians and four US soldiers were killed. Panama broke off diplomatic relations the next day. In 1977, Omar Torrijos and Jimmy Carter signed two treaties in Washington. The US Senate approved each by 68 votes to 32, one vote more than the required two thirds. One treaty ended the zone and set out the transition; the other dealt with the canal's permanent neutrality and operation.
+
+On 1 October 1979, the zone disappeared as an administrative entity. That did not immediately put the waterway under full Panamanian control. The transition continued for another twenty years, until noon on 31 December 1999. On a map these are separate events: first the strip disappears, then responsibility for operating the canal itself passes to Panama.
+
+## Who runs the canal now?
+
+The Panama Canal Authority operates the waterway. In 2016 it opened new locks at Agua Clara and Cocolí for ships that could not fit the older chambers. Fresh water is still essential to the system. A passage through the original locks uses about 200 million litres, and in the 2023 drought the number of daily crossings was cut. In fiscal year 2026, the authority counted 13,951 vessel transits.
+
+There are also commercial terminals near both ends. Operating one of those terminals is not the same thing as operating the canal. A 2026 Panamanian Supreme Court ruling struck down the concession covering two ports; the canal itself remains under the Panama Canal Authority. Look again at the ship off Colón: its direction makes the geography memorable, but knowing who runs the locks explains what the map means today.
+
+FAQ:
+Q: Why did the United States control the Panama Canal Zone?
+A: The Hay–Bunau-Varilla Treaty, signed in November 1903, granted the US a ten-mile-wide zone and the powers it would exercise as if it were sovereign there.
+Q: When did Panama take control of the canal?
+A: The Canal Zone was abolished in October 1979. Full operation of the canal transferred to Panama at noon on 31 December 1999.
+Q: Does the Panama Canal go east or west?
+A: A ship going from the Atlantic to the Pacific travels generally southeast. The Atlantic entrance near Colón lies about 40 kilometres west of the Pacific entrance.
+Q: How far do the Gatún locks lift ships?
+A: Three chambers lift ships about 26 metres from the Atlantic approach to Gatún Lake.
+
+Transcript:
+This ship is sailing from the Atlantic to the Pacific.
+And it's heading southeast.
+Here, the canal's Atlantic end lies about 40 kilometres west of its Pacific end.
+For 75 years, the land along this canal was run by the United States, as if it were the sovereign.
+A strip 16 kilometres wide, with its own governor, police, courts and schools. Even its own stamps.
+It cut Panama in two.
+So how does a country end up split by someone else's strip of land? And how did it get it back?
+Rewind to 1513.
+September 1513. Vasco Núñez de Balboa becomes the first European to see the Pacific from the Americas. He calls it the South Sea.
+For the next three centuries, Peru's gold and silver cross the isthmus by mule and by river, to the fairs at Portobelo.
+In 1534, Spain's king even orders a study for a canal along the Chagres River. Almost exactly where the canal runs today.
+28 November 1821. Panama declares independence from Spain, and joins Gran Colombia of its own accord.
+When Gran Colombia breaks up, ten years later, the isthmus stays with New Granada: today's Colombia.
+Then, in 1848, gold is found in California.
+The fastest way there from New York isn't across America. It's by ship to Panama, across the isthmus, and up the Pacific.
+In 1855, a New York company finishes a railroad across it. 77 kilometres, ocean to ocean.
+A ticket costs 25 dollars in gold. Thousands of workers die building it. Nobody kept count.
+But a train can't carry a ship.
+In 1880, the man who built the Suez Canal, Ferdinand de Lesseps, launches his next project: Panama.
+His plan: a canal at sea level, like Suez. No locks.
+But Suez crossed flat desert. Panama is mountains, jungle and rain.
+The Chagres floods. The cut through the mountains keeps sliding back in.
+And then, the mosquitoes. Yellow fever and malaria. No one has yet proven that mosquitoes carry them.
+By 1888, the French switch to locks. Too late.
+In February 1889, the company collapses. Roughly 20,000 people have died.
+In Paris, it turns into a scandal: more than 150 members of parliament are accused of taking bribes.
+The machines are left to rust in the jungle.
+March 1898. The United States is heading for war with Spain.
+Its battleship Oregon is in San Francisco. It's needed in the Caribbean.
+So it sails all the way around South America, through the Strait of Magellan. More than 14,000 miles, in 66 days.
+It arrives in time. But the lesson is clear: the US Navy needs a shortcut.
+The question is where. Many in Congress prefer Nicaragua: a big lake and a river cover much of the way.
+Then, in May 1902, a volcano on Martinique erupts and destroys a whole city.
+A French engineer with a stake in Panama, Philippe Bunau-Varilla, sends every senator a Nicaraguan stamp.
+It shows the Momotombo volcano, in full eruption.
+In June 1902, the Senate picks Panama, by just eight votes.
+January 1903. The US signs a deal with Colombia: a strip across the isthmus, leased for a century.
+In August, Colombia's Senate rejects it.
+Colombia has just come out of a civil war, the Thousand Days' War. It ended aboard an American battleship, in the Bay of Panama.
+In Panama, a group led by Manuel Amador Guerrero plans to break away. Bunau-Varilla promises them support.
+2 November 1903. An American gunboat arrives at Colón.
+The next morning, about 500 Colombian soldiers land there too.
+The railroad carries their generals to Panama City. But not their troops.
+That evening, the generals are arrested, and Panama declares its separation from Colombia.
+A Colombian column sent overland never makes it. It's stopped by the Darién jungle.
+That jungle still stands. Today, it's the only gap in the road from Alaska to Argentina, about 100 kilometres long.
+On 5 November, the troops at Colón sail away. The next day, the United States recognises Panama.
+And then, the twist. Panama sends two delegates to Washington to negotiate the canal treaty.
+But on 18 November, before they arrive, the treaty is signed. For Panama: Bunau-Varilla, a Frenchman.
+It gives the United States a zone ten miles wide, in perpetuity.
+Panama keeps the two cities at either end. But inside the zone, the US gets every right it would have "if it were the sovereign".
+In return, 10 million dollars, and 250,000 a year.
+Colombia recognises Panama under a treaty that takes effect in 1922. The United States agrees to pay Colombia 25 million dollars.
+May 1904. The Americans take over the French works.
+First, the mosquitoes. Army doctor William Gorgas drains, screens and fumigates.
+The last case of yellow fever: November 1905.
+In 1906, the big decision: locks, not sea level.
+They dam the Chagres at Gatún. Behind the dam, a lake of 430 square kilometres rises: the largest man-made lake on Earth at the time.
+It drowns villages along the old colonial route, including Cruces.
+At Gatún, gates close behind the ship. Water flows into the chamber, lifting the ship with it. Three chambers raise it 26 metres into the lake.
+Then comes the Culebra Cut: almost 14 kilometres dug through the mountains, deep enough for ships to cross the continental divide.
+In 1906, Theodore Roosevelt comes to see it: the first US president to travel abroad while in office.
+The biggest group of workers comes from one small island: Barbados. Nearly 20,000 of them.
+Most Caribbean workers are on the lower-paid silver roll. White US workers generally go on the gold roll. The system segregates housing and services, too.
+Hospital records count 5,609 deaths.
+Then down again to the Pacific, through Pedro Miguel and Miraflores.
+15 August 1914. The SS Ancon makes the first official crossing.
+Though seven months earlier, an old French crane boat, left over from the failed canal, had quietly made the first full crossing.
+Coast to coast, ships now save about 15,000 kilometres.
+But the party is cancelled. Less than three weeks earlier, World War One broke out.
+The Canal Zone becomes a piece of the United States in the tropics. By 1970, about 44,000 people live there.
+They're called Zonians. For Panamanians, the zone is a foreign country running through the middle of their own.
+9 January 1964. Panamanian students try to raise their flag at a high school inside the zone.
+It ends in riots. More than twenty Panamanians and four US soldiers are killed.
+Panama breaks off relations with the United States. Today, 9 January is Martyrs' Day there.
+It takes 13 more years of talks.
+7 September 1977. Omar Torrijos and Jimmy Carter sign two treaties in Washington.
+In Panama, about two-thirds vote yes. The US Senate approves them with one vote to spare.
+On 1 October 1979, the Canal Zone ceases to exist.
+The canal itself stays under US management for twenty more years, with Panamanians taking over step by step.
+In December 1989, US troops invade Panama and remove its military ruler, Manuel Noriega.
+And at noon on 31 December 1999, the canal becomes Panama's.
+Today, nearly 14,000 ships a year cross it. Around five percent of world trade, by the canal's own count.
+In 2016, Panama opened a third set of locks, for ships too big for the old ones.
+Every crossing of the old locks flushes about 200 million litres of fresh water into the sea.
+So when it doesn't rain, the canal shrinks. In the 2023 drought, daily crossings fell from about 36 to 22.
+The cheapest crossing ever? 36 cents. Paid in 1928 by Richard Halliburton, who swam it and was charged by his weight.
+And the canal is back in the headlines. In 2025, a US president said: "we're taking it back".
+Panama's answer: the canal is, and will remain, Panama's.
+In 2026, Panama's Supreme Court struck down a port concession. But the ports aren't the canal. The Panama Canal Authority runs the waterway.
+So the next time a ship heads southeast here, it's crossing to the Pacific. Through a canal Panama waited 96 years to own.
+This wasn't America's only famous land deal. In 1867, it paid Russia about two cents an acre for Alaska.
+
+Sources: Panama Canal Authority (ACP); Biblioteca Nacional de Panamá, Acta de Independencia de 1821; Office of the Historian, US Department of State; Hay–Bunau-Varilla Treaty (Yale Law School, Avalon Project); Encyclopaedia Britannica; US Census Bureau; US National Archives; Guinness World Records
+
+## Greenland Is Smaller Than You Think
+
+URL: https://globetape.github.io/videos/greenland-size/
+YouTube: https://www.youtube.com/watch?v=c8n68ip57bg
+Published: 2026-11-27 · Duration: 0:32 · Place: Greenland
+Short answer: What is Greenland's real size? 2.17 million km²: the world's largest island, yet smaller than Algeria (2.38 million km²). On a Mercator map it looks nearly 12 times bigger than Algeria, because the projection stretches land near the poles.
+
+Key facts:
+- Area of Greenland: 2,166,086 km² (The world's largest island. About 1.71 million km² of it lies under an ice sheet.) [source: CIA World Factbook (final edition, archived)]
+- Area of Algeria: 2,381,740 km² (Africa's largest country, about 215,000 km² bigger than Greenland.) [source: CIA World Factbook (final edition, archived)]
+- How big Greenland looks next to Algeria on a Mercator map: Nearly 12 times bigger (Measured on the same Web Mercator map: 11.7 times Algeria's area on screen.) [source: outlines measured on Natural Earth]
+- Mercator's area stretch: sec² of the latitude (Area grows by the square of the secant of the latitude: about 4 times at 60°, more than 10 times past 72°.) [source: USGS, Map Projections: A Working Manual]
+- At the same latitude: Greenland is smaller (Moved next to Algeria, Greenland's outline covers 0.92 of Algeria's area on the map, close to the real ratio.) [source: outlines measured on Natural Earth]
+- Area of Mexico: 1,964,375 km² (Greenland is about 10% bigger than Mexico.) [source: CIA World Factbook (final edition, archived)]
+
+### Greenland's Real Size: Smaller Than Algeria
+
+Greenland covers 2,166,086 km². That makes it the world's largest island, but it is still smaller than Algeria, which covers 2,381,740 km². On the world map most of us grew up with, though, Greenland looks nearly 12 times bigger than Algeria. The reason is the map, not the island.
+
+## How big is Greenland really?
+
+According to the CIA World Factbook, Greenland has a total area of 2,166,086 km², and about 1.71 million km² of it lies under an ice sheet. It is the largest island on Earth: Australia is bigger, but it counts as a continent.
+
+So Greenland is huge for an island. It is just not the giant it appears to be on a classic world map.
+
+## Why does Greenland look so big on maps?
+
+Most world maps online, including Google Maps, use a version of the **Mercator projection**, drawn by Gerardus Mercator in 1569 for sailors. To flatten a round planet into a rectangle while keeping shapes and angles correct, Mercator stretches everything more and more the further it is from the equator.
+
+The stretch is precise: on a Mercator map, area grows with the square of the secant of the latitude. At 60° north an area is shown about 4 times bigger than it really is; past 72° north, more than 10 times.
+
+Greenland sits between roughly 60° and 84° north, so almost all of it is drawn in the most stretched part of the map. Measured on the same map, Greenland's outline covers on average about 16 times its real area. Algeria, much closer to the equator, is inflated only about 1.3 times.
+
+That is why, on the map, Greenland looks **nearly 12 times bigger than Algeria**.
+
+## What happens if you move Greenland to Algeria's latitude?
+
+To compare them fairly, we took Greenland's real outline, moved it across the globe without stretching it, and set it down in the Atlantic, right next to Algeria and at the same latitude.
+
+- At that latitude both shapes are stretched by the same amount.
+- On the map, Greenland's outline now covers about **0.92 of Algeria's area**, close to the real ratio.
+- In other words, once the distortion is the same for both, Algeria is clearly the bigger one.
+
+We also checked whether Greenland could fit inside Algeria. It cannot: Greenland is long and narrow, and even in its best position only about 81% of it fits within Algeria's borders. That is why the video puts it beside Algeria rather than on top of it.
+
+## Is Greenland bigger than Mexico?
+
+Yes. Mexico covers 1,964,375 km², so Greenland is about 10% bigger. Greenland may be smaller than Algeria, but it is still bigger than many large countries.
+
+## Why it matters
+
+Mercator maps are excellent for navigation, because a straight line on them keeps a constant compass bearing. They are much worse at comparing sizes. Anything far from the equator, like Greenland, Canada or northern Russia, looks bigger than it really is, while countries near the equator look smaller.
+
+The simple rule: when two places sit at very different latitudes, do not trust a Mercator map to tell you which one is bigger. Move them to the same latitude, or check the numbers.
+
+So next time Greenland looks huge on your map, remember: it is the world's largest island, and still smaller than Algeria.
+
+FAQ:
+Q: What is Greenland's real size?
+A: Greenland covers 2,166,086 km², making it the world's largest island. About 1.71 million km² of it is covered by ice.
+Q: Is Greenland bigger than Algeria?
+A: No. Algeria covers 2,381,740 km² and Greenland 2,166,086 km², so Algeria is about 215,000 km² bigger, even though Greenland looks nearly 12 times bigger on a Mercator map.
+Q: Why does Greenland look so big on maps?
+A: Most world maps use the Mercator projection, which stretches area by the square of the secant of the latitude. Greenland lies between about 60° and 84° north, where the stretch is strongest.
+Q: Is Greenland bigger than Mexico?
+A: Yes. Mexico covers 1,964,375 km², so Greenland is about 10% bigger.
+
+Transcript:
+Greenland isn't as big as you think.
+Greenland: Excuse me? Look at me!
+On this map, it looks nearly twelve times bigger than Algeria.
+Myth. This map is Mercator, and it stretches land near the poles.
+So drag Greenland south, to Algeria's latitude.
+Greenland: Wait… I'm shrinking!
+Same latitude, same stretch. And Algeria is bigger.
+Greenland: I'm still the biggest island!
+True. Just not the giant on your map.
+So next time it looks huge…
+
+Sources: CIA World Factbook (final edition, archived); Encyclopaedia Britannica; USGS, Map Projections: A Working Manual; outlines measured on Natural Earth
+
 ## Macy's Parade Postponed by Thanksgiving Storm | World News
 
 URL: https://globetape.github.io/videos/world-today-2026-11-26-h/

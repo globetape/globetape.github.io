@@ -3,6 +3,110 @@
   "source": "https://globetape.github.io/facts/",
   "facts": [
     {
+      "label": "Atlantic entrance",
+      "value": "≈ 40 km farther west",
+      "detail": "The Atlantic entrance near Colón lies west of the Pacific entrance near Balboa.",
+      "source": "Encyclopaedia Britannica; OpenStreetMap geometry",
+      "video": "https://globetape.github.io/videos/panama-canal/",
+      "videoTitle": "How the US Got the Panama Canal (and Gave It Back)"
+    },
+    {
+      "label": "Treaty width",
+      "value": "10 miles (≈ 16 km)",
+      "detail": "The 1903 treaty specified five miles on each side and excluded the cities of Panama and Colón.",
+      "source": "Hay–Bunau-Varilla Treaty, Article II (Avalon Project)",
+      "video": "https://globetape.github.io/videos/panama-canal/",
+      "videoTitle": "How the US Got the Panama Canal (and Gave It Back)"
+    },
+    {
+      "label": "Gatún locks",
+      "value": "26 metres",
+      "detail": "Three chambers raise a ship from the Atlantic side to the level of Gatún Lake.",
+      "source": "Panama Canal Authority",
+      "video": "https://globetape.github.io/videos/panama-canal/",
+      "videoTitle": "How the US Got the Panama Canal (and Gave It Back)"
+    },
+    {
+      "label": "First official transit",
+      "value": "15 August 1914",
+      "detail": "The SS Ancon made the official opening crossing.",
+      "source": "Panama Canal Authority",
+      "video": "https://globetape.github.io/videos/panama-canal/",
+      "videoTitle": "How the US Got the Panama Canal (and Gave It Back)"
+    },
+    {
+      "label": "Canal Zone abolished",
+      "value": "1 October 1979",
+      "detail": "The canal itself continued operating under transitional arrangements.",
+      "source": "Office of the Historian, US Department of State",
+      "video": "https://globetape.github.io/videos/panama-canal/",
+      "videoTitle": "How the US Got the Panama Canal (and Gave It Back)"
+    },
+    {
+      "label": "Final handover",
+      "value": "31 December 1999",
+      "detail": "Panama took full control of the canal at noon.",
+      "source": "Encyclopaedia Britannica; Office of the Historian",
+      "video": "https://globetape.github.io/videos/panama-canal/",
+      "videoTitle": "How the US Got the Panama Canal (and Gave It Back)"
+    },
+    {
+      "label": "Vessel transits",
+      "value": "13,951 in fiscal year 2026",
+      "detail": "The fiscal year ran from October 2025 through September 2026.",
+      "source": "Panama Canal Authority, 21 October 2026",
+      "video": "https://globetape.github.io/videos/panama-canal/",
+      "videoTitle": "How the US Got the Panama Canal (and Gave It Back)"
+    },
+    {
+      "label": "Area of Greenland",
+      "value": "2,166,086 km²",
+      "detail": "The world's largest island. About 1.71 million km² of it lies under an ice sheet.",
+      "source": "CIA World Factbook (final edition, archived)",
+      "video": "https://globetape.github.io/videos/greenland-size/",
+      "videoTitle": "Greenland Is Smaller Than You Think"
+    },
+    {
+      "label": "Area of Algeria",
+      "value": "2,381,740 km²",
+      "detail": "Africa's largest country, about 215,000 km² bigger than Greenland.",
+      "source": "CIA World Factbook (final edition, archived)",
+      "video": "https://globetape.github.io/videos/greenland-size/",
+      "videoTitle": "Greenland Is Smaller Than You Think"
+    },
+    {
+      "label": "How big Greenland looks next to Algeria on a Mercator map",
+      "value": "Nearly 12 times bigger",
+      "detail": "Measured on the same Web Mercator map: 11.7 times Algeria's area on screen.",
+      "source": "outlines measured on Natural Earth",
+      "video": "https://globetape.github.io/videos/greenland-size/",
+      "videoTitle": "Greenland Is Smaller Than You Think"
+    },
+    {
+      "label": "Mercator's area stretch",
+      "value": "sec² of the latitude",
+      "detail": "Area grows by the square of the secant of the latitude: about 4 times at 60°, more than 10 times past 72°.",
+      "source": "USGS, Map Projections: A Working Manual",
+      "video": "https://globetape.github.io/videos/greenland-size/",
+      "videoTitle": "Greenland Is Smaller Than You Think"
+    },
+    {
+      "label": "At the same latitude",
+      "value": "Greenland is smaller",
+      "detail": "Moved next to Algeria, Greenland's outline covers 0.92 of Algeria's area on the map, close to the real ratio.",
+      "source": "outlines measured on Natural Earth",
+      "video": "https://globetape.github.io/videos/greenland-size/",
+      "videoTitle": "Greenland Is Smaller Than You Think"
+    },
+    {
+      "label": "Area of Mexico",
+      "value": "1,964,375 km²",
+      "detail": "Greenland is about 10% bigger than Mexico.",
+      "source": "CIA World Factbook (final edition, archived)",
+      "video": "https://globetape.github.io/videos/greenland-size/",
+      "videoTitle": "Greenland Is Smaller Than You Think"
+    },
+    {
       "label": "United States · Storm",
       "value": "Storm delays macy's 100th parade",
       "detail": "Wind and rain hit the East Coast on Thursday, leaving over 900,000 homes and businesses without power.",

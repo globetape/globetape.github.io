@@ -8,9 +8,59 @@
     "tagline": "Every place on Earth has a story on tape. We hit rewind.",
     "founded": "2026-11"
   },
-  "updated": "2026-11-27T05:22:55Z",
-  "nextRelease": "2026-11-27T18:00:00Z",
+  "updated": "2026-11-27T20:00:00Z",
+  "nextRelease": "2026-11-28T18:00:00Z",
   "videos": [
+    {
+      "id": "panama-canal",
+      "youtubeId": "jWkI3rAVd1s",
+      "title": "How the US Got the Panama Canal (and Gave It Back)",
+      "format": "long",
+      "series": "history",
+      "published": "2026-11-27T20:00:00Z",
+      "duration": 501,
+      "place": {
+        "name": "Panama Canal",
+        "country": "PA",
+        "lat": 9.12,
+        "lon": -79.71
+      },
+      "summary": "Panama Canal history starts with a surprising map: a 1903 treaty gave the United States sweeping powers over a strip across Panama. The Canal Zone ended in 1979; the waterway itself was handed over in 1999.",
+      "url": "https://globetape.github.io/videos/panama-canal/",
+      "sources": [
+        "Panama Canal Authority (ACP)",
+        "Biblioteca Nacional de Panamá, Acta de Independencia de 1821",
+        "Office of the Historian, US Department of State",
+        "Hay–Bunau-Varilla Treaty (Yale Law School, Avalon Project)",
+        "Encyclopaedia Britannica",
+        "US Census Bureau",
+        "US National Archives",
+        "Guinness World Records"
+      ]
+    },
+    {
+      "id": "greenland-size",
+      "youtubeId": "c8n68ip57bg",
+      "title": "Greenland Is Smaller Than You Think",
+      "format": "shorts",
+      "series": "truesize",
+      "published": "2026-11-27T18:00:00Z",
+      "duration": 32,
+      "place": {
+        "name": "Greenland",
+        "country": "GL",
+        "lat": 72,
+        "lon": -40
+      },
+      "summary": "What is Greenland's real size? 2.17 million km²: the world's largest island, yet smaller than Algeria (2.38 million km²). On a Mercator map it looks nearly 12 times bigger than Algeria, because the projection stretches land near the poles.",
+      "url": "https://globetape.github.io/videos/greenland-size/",
+      "sources": [
+        "CIA World Factbook (final edition, archived)",
+        "Encyclopaedia Britannica",
+        "USGS, Map Projections: A Working Manual",
+        "outlines measured on Natural Earth"
+      ]
+    },
     {
       "id": "world-today-2026-11-26-h",
       "youtubeId": "E8BqJCelNDw",
