@@ -5,6 +5,7 @@
 Each video page on this site has the short answer, full transcript, chapters, sources and map credits. Neutral on wars and disputes: what happened and when. Full text of every transcript: https://globetape.github.io/llms-full.txt
 
 ## Videos
+- [Quebec Religious Symbols Ban Upheld | World News, Nov 27](https://globetape.github.io/videos/world-today-2026-11-27-h/): Canada's Supreme Court largely upheld Quebec's Bill 21, the 2019 law that bars teachers, police and other public workers from wearing religious symbols such as hijabs, turbans, kippahs and crosses on the job. (feature, 1:58, 2026-11-28, Quebec City; YouTube: https://www.youtube.com/watch?v=e6SZfd-ElyY)
 - [How the US Got the Panama Canal (and Gave It Back)](https://globetape.github.io/videos/panama-canal/): Panama Canal history starts with a surprising map: a 1903 treaty gave the United States sweeping powers over a strip across Panama. The Canal Zone ended in 1979; the waterway itself was handed over in 1999. (feature, 8:21, 2026-11-27, Panama Canal; YouTube: https://www.youtube.com/watch?v=jWkI3rAVd1s)
 - [Greenland Is Smaller Than You Think](https://globetape.github.io/videos/greenland-size/): What is Greenland's real size? 2.17 million km²: the world's largest island, yet smaller than Algeria (2.38 million km²). On a Mercator map it looks nearly 12 times bigger than Algeria, because the projection stretches land near the poles. (Short, 0:32, 2026-11-27, Greenland; YouTube: https://www.youtube.com/watch?v=c8n68ip57bg)
 - [Macy's Parade Postponed by Thanksgiving Storm | World News](https://globetape.github.io/videos/world-today-2026-11-26-h/): A Thanksgiving storm postponed the Macy's parade for the first time in its 100-year history and left more than 900,000 US homes and businesses without power. (feature, 1:57, 2026-11-27, New York; YouTube: https://www.youtube.com/watch?v=E8BqJCelNDw)
@@ -31,6 +32,7 @@ Each video page on this site has the short answer, full transcript, chapters, so
 ## Places
 - [United States](https://globetape.github.io/places/united-states/): Macy's Parade Postponed by Thanksgiving Storm | World News; Iowa Lead Azide Detonation: 4,500 kg Destroyed | World News, Nov 25; Nvidia Brings Back Jensen Huang | World News, Nov 23; Russia Sold Alaska for 2 Cents an Acre
 - [Africa](https://globetape.github.io/places/africa/): The True Size of Africa: US, India and EU Fit
+- [Canada](https://globetape.github.io/places/canada/): Quebec Religious Symbols Ban Upheld | World News, Nov 27
 - [Chile](https://globetape.github.io/places/chile/): Chile Is Longer Than Lisbon to Moscow
 - [Greenland](https://globetape.github.io/places/greenland/): Greenland Is Smaller Than You Think
 - [Korean Demilitarized Zone](https://globetape.github.io/places/korean-demilitarized-zone/): Did the Korean War Ever Really End?

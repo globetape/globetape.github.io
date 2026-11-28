@@ -8,9 +8,34 @@
     "tagline": "Every place on Earth has a story on tape. We hit rewind.",
     "founded": "2026-11"
   },
-  "updated": "2026-11-27T20:00:00Z",
+  "updated": "2026-11-28T05:20:25Z",
   "nextRelease": "2026-11-28T18:00:00Z",
   "videos": [
+    {
+      "id": "world-today-2026-11-27-h",
+      "youtubeId": "e6SZfd-ElyY",
+      "title": "Quebec Religious Symbols Ban Upheld | World News, Nov 27",
+      "format": "long",
+      "series": "world-today",
+      "published": "2026-11-28T05:20:25Z",
+      "duration": 118,
+      "place": {
+        "name": "Quebec City",
+        "lat": 46.814,
+        "lon": -71.208,
+        "country": "CA"
+      },
+      "summary": "Canada's Supreme Court largely upheld Quebec's Bill 21, the 2019 law that bars teachers, police and other public workers from wearing religious symbols such as hijabs, turbans, kippahs and crosses on the job.",
+      "url": "https://globetape.github.io/videos/world-today-2026-11-27-h/",
+      "sources": [
+        "TICO TIMES · ABC AUSTRALIA",
+        "AP · BBC",
+        "AL JAZEERA · RBC-UKRAINE",
+        "AL JAZEERA · CAPITAL FM",
+        "XINHUA · BAIRD MARITIME",
+        "AP · CBS NEWS"
+      ]
+    },
     {
       "id": "panama-canal",
       "youtubeId": "jWkI3rAVd1s",

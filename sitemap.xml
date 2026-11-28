@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
-<url><loc>https://globetape.github.io/</loc><lastmod>2026-11-27</lastmod></url>
-<url><loc>https://globetape.github.io/videos/</loc><lastmod>2026-11-27</lastmod></url>
+<url><loc>https://globetape.github.io/</loc><lastmod>2026-11-28</lastmod></url>
+<url><loc>https://globetape.github.io/videos/</loc><lastmod>2026-11-28</lastmod></url>
 <url><loc>https://globetape.github.io/series/</loc></url>
 <url><loc>https://globetape.github.io/about/</loc></url>
 <url><loc>https://globetape.github.io/places/</loc></url>
@@ -9,6 +9,7 @@
 <url><loc>https://globetape.github.io/corrections/</loc></url>
 <url><loc>https://globetape.github.io/places/united-states/</loc><lastmod>2026-11-27</lastmod></url>
 <url><loc>https://globetape.github.io/places/africa/</loc><lastmod>2026-11-20</lastmod></url>
+<url><loc>https://globetape.github.io/places/canada/</loc><lastmod>2026-11-28</lastmod></url>
 <url><loc>https://globetape.github.io/places/chile/</loc><lastmod>2026-11-24</lastmod></url>
 <url><loc>https://globetape.github.io/places/greenland/</loc><lastmod>2026-11-27</lastmod></url>
 <url><loc>https://globetape.github.io/places/korean-demilitarized-zone/</loc><lastmod>2026-11-25</lastmod></url>
@@ -67,7 +68,10 @@
 <url><loc>https://globetape.github.io/series/truesize/</loc><lastmod>2026-11-27</lastmod></url>
 <url><loc>https://globetape.github.io/series/history/</loc><lastmod>2026-11-27</lastmod></url>
 <url><loc>https://globetape.github.io/series/riches/</loc><lastmod>2026-11-23</lastmod></url>
-<url><loc>https://globetape.github.io/series/world-today/</loc><lastmod>2026-11-27</lastmod></url>
+<url><loc>https://globetape.github.io/series/world-today/</loc><lastmod>2026-11-28</lastmod></url>
+<url><loc>https://globetape.github.io/videos/world-today-2026-11-27-h/</loc><lastmod>2026-11-28</lastmod>
+  <image:image><image:loc>https://globetape.github.io/thumbs/world-today-2026-11-27-h.jpg</image:loc></image:image>
+  <video:video><video:thumbnail_loc>https://globetape.github.io/thumbs/world-today-2026-11-27-h.jpg</video:thumbnail_loc><video:title>Quebec Religious Symbols Ban Upheld | World News, Nov 27</video:title><video:description>Canada's Supreme Court largely upheld Quebec's Bill 21, the 2019 law that bars teachers, police and other public workers from wearing religious symbols such as hijabs, turbans, kippahs and crosses on the job.</video:description><video:player_loc>https://www.youtube.com/embed/e6SZfd-ElyY</video:player_loc><video:duration>118</video:duration><video:publication_date>2026-11-28T05:20:25Z</video:publication_date><video:family_friendly>yes</video:family_friendly></video:video></url>
 <url><loc>https://globetape.github.io/videos/panama-canal/</loc><lastmod>2026-11-27</lastmod>
   <image:image><image:loc>https://globetape.github.io/thumbs/panama-canal.jpg</image:loc></image:image>
   <video:video><video:thumbnail_loc>https://globetape.github.io/thumbs/panama-canal.jpg</video:thumbnail_loc><video:title>How the US Got the Panama Canal (and Gave It Back)</video:title><video:description>Panama Canal history starts with a surprising map: a 1903 treaty gave the United States sweeping powers over a strip across Panama. The Canal Zone ended in 1979; the waterway itself was handed over in 1999.</video:description><video:player_loc>https://www.youtube.com/embed/jWkI3rAVd1s</video:player_loc><video:duration>501</video:duration><video:publication_date>2026-11-27T20:00:00Z</video:publication_date><video:family_friendly>yes</video:family_friendly></video:video></url>
