@@ -8,34 +8,9 @@
     "tagline": "Every place on Earth has a story on tape. We hit rewind.",
     "founded": "2026-11"
   },
-  "updated": "2026-11-28T05:20:25Z",
+  "updated": "2026-11-27T20:00:00Z",
   "nextRelease": "2026-11-28T18:00:00Z",
   "videos": [
-    {
-      "id": "world-today-2026-11-27-h",
-      "youtubeId": "e6SZfd-ElyY",
-      "title": "Quebec Religious Symbols Ban Upheld | World News, Nov 27",
-      "format": "long",
-      "series": "world-today",
-      "published": "2026-11-28T05:20:25Z",
-      "duration": 118,
-      "place": {
-        "name": "Quebec City",
-        "lat": 46.814,
-        "lon": -71.208,
-        "country": "CA"
-      },
-      "summary": "Canada's Supreme Court largely upheld Quebec's Bill 21, the 2019 law that bars teachers, police and other public workers from wearing religious symbols such as hijabs, turbans, kippahs and crosses on the job.",
-      "url": "https://globetape.github.io/videos/world-today-2026-11-27-h/",
-      "sources": [
-        "TICO TIMES · ABC AUSTRALIA",
-        "AP · BBC",
-        "AL JAZEERA · RBC-UKRAINE",
-        "AL JAZEERA · CAPITAL FM",
-        "XINHUA · BAIRD MARITIME",
-        "AP · CBS NEWS"
-      ]
-    },
     {
       "id": "panama-canal",
       "youtubeId": "jWkI3rAVd1s",
@@ -87,31 +62,6 @@
       ]
     },
     {
-      "id": "world-today-2026-11-26-h",
-      "youtubeId": "E8BqJCelNDw",
-      "title": "Macy's Parade Postponed by Thanksgiving Storm | World News",
-      "format": "long",
-      "series": "world-today",
-      "published": "2026-11-27T05:22:55Z",
-      "duration": 117,
-      "place": {
-        "name": "New York",
-        "lat": 40.713,
-        "lon": -74.006,
-        "country": "US"
-      },
-      "summary": "A Thanksgiving storm postponed the Macy's parade for the first time in its 100-year history and left more than 900,000 US homes and businesses without power.",
-      "url": "https://globetape.github.io/videos/world-today-2026-11-26-h/",
-      "sources": [
-        "CBS NEWS · AFP",
-        "AGÊNCIA BRASIL · G1",
-        "ONS · BBC",
-        "AP · REUTERS",
-        "CNN · AFP (DAWN)",
-        "RNZ · ABC NEWS (AU)"
-      ]
-    },
-    {
       "id": "turkey-name",
       "youtubeId": "99ag8T8wPb0",
       "title": "The Turkey Isn't From Türkiye, India or Peru",
@@ -135,31 +85,6 @@
         "Caldas Aulete",
         "Speller et al., PNAS 2010",
         "RAE"
-      ]
-    },
-    {
-      "id": "world-today-2026-11-25-h",
-      "youtubeId": "CvbJjw6NrsQ",
-      "title": "Iowa Lead Azide Detonation: 4,500 kg Destroyed | World News, Nov 25",
-      "format": "long",
-      "series": "world-today",
-      "published": "2026-11-26T05:21:10Z",
-      "duration": 114,
-      "place": {
-        "name": "Middletown",
-        "lat": 40.829,
-        "lon": -91.264,
-        "country": "US"
-      },
-      "summary": "The US Army destroyed about 4,500 kilograms of degraded lead azide at an Iowa ammunition plant, and early EPA readings showed no airborne lead.",
-      "url": "https://globetape.github.io/videos/world-today-2026-11-25-h/",
-      "sources": [
-        "AL JAZEERA · FRANCE 24 (AP)",
-        "AL JAZEERA · AGÊNCIA BRASIL",
-        "KYIV INDEP. · NOTES FROM POLAND",
-        "EWN · AL JAZEERA (REUTERS, AP)",
-        "AL JAZEERA · FRANCE 24 (AFP)",
-        "AL JAZEERA · NK NEWS"
       ]
     },
     {
@@ -204,32 +129,6 @@
       "sources": [
         "Library of Congress, Chile: A Country Study",
         "outline measured and placed on Natural Earth"
-      ]
-    },
-    {
-      "id": "world-today-2026-11-23-h",
-      "youtubeId": "0OTg5656th8",
-      "title": "Nvidia Brings Back Jensen Huang | World News, Nov 23",
-      "format": "long",
-      "series": "world-today",
-      "published": "2026-11-24T06:28:46Z",
-      "duration": 119,
-      "place": {
-        "name": "Santa Clara",
-        "lat": 37.354,
-        "lon": -121.955,
-        "country": "US"
-      },
-      "summary": "Nvidia's board voted unanimously to reinstate Jensen Huang as CEO, and its shares closed more than 31% higher on Monday.",
-      "url": "https://globetape.github.io/videos/world-today-2026-11-23-h/",
-      "sources": [
-        "NVIDIA · BBC",
-        "EFE · CARACOL RADIO",
-        "REUTERS · POLSKIE RADIO",
-        "ABC NEWS · CNBC",
-        "BBC · HINDUSTAN TIMES",
-        "REUTERS · XINHUA",
-        "YONHAP · KOREA TIMES"
       ]
     },
     {

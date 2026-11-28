@@ -1,15 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
-<url><loc>https://globetape.github.io/</loc><lastmod>2026-11-28</lastmod></url>
-<url><loc>https://globetape.github.io/videos/</loc><lastmod>2026-11-28</lastmod></url>
+<url><loc>https://globetape.github.io/</loc><lastmod>2026-11-27</lastmod></url>
+<url><loc>https://globetape.github.io/videos/</loc><lastmod>2026-11-27</lastmod></url>
 <url><loc>https://globetape.github.io/series/</loc></url>
 <url><loc>https://globetape.github.io/about/</loc></url>
 <url><loc>https://globetape.github.io/places/</loc></url>
 <url><loc>https://globetape.github.io/facts/</loc></url>
 <url><loc>https://globetape.github.io/corrections/</loc></url>
-<url><loc>https://globetape.github.io/places/united-states/</loc><lastmod>2026-11-27</lastmod></url>
 <url><loc>https://globetape.github.io/places/africa/</loc><lastmod>2026-11-20</lastmod></url>
-<url><loc>https://globetape.github.io/places/canada/</loc><lastmod>2026-11-28</lastmod></url>
 <url><loc>https://globetape.github.io/places/chile/</loc><lastmod>2026-11-24</lastmod></url>
 <url><loc>https://globetape.github.io/places/greenland/</loc><lastmod>2026-11-27</lastmod></url>
 <url><loc>https://globetape.github.io/places/korean-demilitarized-zone/</loc><lastmod>2026-11-25</lastmod></url>
@@ -19,6 +17,7 @@
 <url><loc>https://globetape.github.io/places/russia/</loc><lastmod>2026-11-23</lastmod></url>
 <url><loc>https://globetape.github.io/places/turkiye/</loc><lastmod>2026-11-26</lastmod></url>
 <url><loc>https://globetape.github.io/places/ukraine/</loc><lastmod>2026-11-21</lastmod></url>
+<url><loc>https://globetape.github.io/places/united-states/</loc><lastmod>2026-11-22</lastmod></url>
 <url><loc>https://globetape.github.io/es/videos/panama-canal/</loc><lastmod>2026-11-27</lastmod></url>
 <url><loc>https://globetape.github.io/pt/videos/panama-canal/</loc><lastmod>2026-11-27</lastmod></url>
 <url><loc>https://globetape.github.io/fr/videos/panama-canal/</loc><lastmod>2026-11-27</lastmod></url>
@@ -68,34 +67,22 @@
 <url><loc>https://globetape.github.io/series/truesize/</loc><lastmod>2026-11-27</lastmod></url>
 <url><loc>https://globetape.github.io/series/history/</loc><lastmod>2026-11-27</lastmod></url>
 <url><loc>https://globetape.github.io/series/riches/</loc><lastmod>2026-11-23</lastmod></url>
-<url><loc>https://globetape.github.io/series/world-today/</loc><lastmod>2026-11-28</lastmod></url>
-<url><loc>https://globetape.github.io/videos/world-today-2026-11-27-h/</loc><lastmod>2026-11-28</lastmod>
-  <image:image><image:loc>https://globetape.github.io/thumbs/world-today-2026-11-27-h.jpg</image:loc></image:image>
-  <video:video><video:thumbnail_loc>https://globetape.github.io/thumbs/world-today-2026-11-27-h.jpg</video:thumbnail_loc><video:title>Quebec Religious Symbols Ban Upheld | World News, Nov 27</video:title><video:description>Canada's Supreme Court largely upheld Quebec's Bill 21, the 2019 law that bars teachers, police and other public workers from wearing religious symbols such as hijabs, turbans, kippahs and crosses on the job.</video:description><video:player_loc>https://www.youtube.com/embed/e6SZfd-ElyY</video:player_loc><video:duration>118</video:duration><video:publication_date>2026-11-28T05:20:25Z</video:publication_date><video:family_friendly>yes</video:family_friendly></video:video></url>
+<url><loc>https://globetape.github.io/series/world-today/</loc></url>
 <url><loc>https://globetape.github.io/videos/panama-canal/</loc><lastmod>2026-11-27</lastmod>
   <image:image><image:loc>https://globetape.github.io/thumbs/panama-canal.jpg</image:loc></image:image>
   <video:video><video:thumbnail_loc>https://globetape.github.io/thumbs/panama-canal.jpg</video:thumbnail_loc><video:title>How the US Got the Panama Canal (and Gave It Back)</video:title><video:description>Panama Canal history starts with a surprising map: a 1903 treaty gave the United States sweeping powers over a strip across Panama. The Canal Zone ended in 1979; the waterway itself was handed over in 1999.</video:description><video:player_loc>https://www.youtube.com/embed/jWkI3rAVd1s</video:player_loc><video:duration>501</video:duration><video:publication_date>2026-11-27T20:00:00Z</video:publication_date><video:family_friendly>yes</video:family_friendly></video:video></url>
 <url><loc>https://globetape.github.io/videos/greenland-size/</loc><lastmod>2026-11-27</lastmod>
   <image:image><image:loc>https://globetape.github.io/thumbs/greenland-size.jpg</image:loc></image:image>
   <video:video><video:thumbnail_loc>https://globetape.github.io/thumbs/greenland-size.jpg</video:thumbnail_loc><video:title>Greenland Is Smaller Than You Think</video:title><video:description>What is Greenland's real size? 2.17 million km²: the world's largest island, yet smaller than Algeria (2.38 million km²). On a Mercator map it looks nearly 12 times bigger than Algeria, because the projection stretches land near the poles.</video:description><video:player_loc>https://www.youtube.com/embed/c8n68ip57bg</video:player_loc><video:duration>32</video:duration><video:publication_date>2026-11-27T18:00:00Z</video:publication_date><video:family_friendly>yes</video:family_friendly></video:video></url>
-<url><loc>https://globetape.github.io/videos/world-today-2026-11-26-h/</loc><lastmod>2026-11-27</lastmod>
-  <image:image><image:loc>https://globetape.github.io/thumbs/world-today-2026-11-26-h.jpg</image:loc></image:image>
-  <video:video><video:thumbnail_loc>https://globetape.github.io/thumbs/world-today-2026-11-26-h.jpg</video:thumbnail_loc><video:title>Macy's Parade Postponed by Thanksgiving Storm | World News</video:title><video:description>A Thanksgiving storm postponed the Macy's parade for the first time in its 100-year history and left more than 900,000 US homes and businesses without power.</video:description><video:player_loc>https://www.youtube.com/embed/E8BqJCelNDw</video:player_loc><video:duration>117</video:duration><video:publication_date>2026-11-27T05:22:55Z</video:publication_date><video:family_friendly>yes</video:family_friendly></video:video></url>
 <url><loc>https://globetape.github.io/videos/turkey-name/</loc><lastmod>2026-11-26</lastmod>
   <image:image><image:loc>https://globetape.github.io/thumbs/turkey-name.jpg</image:loc></image:image>
   <video:video><video:thumbnail_loc>https://globetape.github.io/thumbs/turkey-name.jpg</video:thumbnail_loc><video:title>The Turkey Isn't From Türkiye, India or Peru</video:title><video:description>Why is a turkey called a turkey? It's a North American bird, yet English names it like the country, Turkish (hindi) and French (dinde) name it after India, Dutch after Calicut and Portuguese after Peru. Every farm turkey traces back to Mexico.</video:description><video:player_loc>https://www.youtube.com/embed/99ag8T8wPb0</video:player_loc><video:duration>29</video:duration><video:publication_date>2026-11-26T18:00:00Z</video:publication_date><video:family_friendly>yes</video:family_friendly></video:video></url>
-<url><loc>https://globetape.github.io/videos/world-today-2026-11-25-h/</loc><lastmod>2026-11-26</lastmod>
-  <image:image><image:loc>https://globetape.github.io/thumbs/world-today-2026-11-25-h.jpg</image:loc></image:image>
-  <video:video><video:thumbnail_loc>https://globetape.github.io/thumbs/world-today-2026-11-25-h.jpg</video:thumbnail_loc><video:title>Iowa Lead Azide Detonation: 4,500 kg Destroyed | World News, Nov 25</video:title><video:description>The US Army destroyed about 4,500 kilograms of degraded lead azide at an Iowa ammunition plant, and early EPA readings showed no airborne lead.</video:description><video:player_loc>https://www.youtube.com/embed/CvbJjw6NrsQ</video:player_loc><video:duration>114</video:duration><video:publication_date>2026-11-26T05:21:10Z</video:publication_date><video:family_friendly>yes</video:family_friendly></video:video></url>
 <url><loc>https://globetape.github.io/videos/korea-38/</loc><lastmod>2026-11-25</lastmod>
   <image:image><image:loc>https://globetape.github.io/thumbs/korea-38.jpg</image:loc></image:image>
   <video:video><video:thumbnail_loc>https://globetape.github.io/thumbs/korea-38.jpg</video:thumbnail_loc><video:title>Did the Korean War Ever Really End?</video:title><video:description>Did the Korean War ever really end? The fighting stopped on 27 July 1953 with an armistice, a military ceasefire, but no peace treaty has ever been signed. And the border it left isn't the 38th parallel: it's where the front line froze.</video:description><video:player_loc>https://www.youtube.com/embed/glrslVz1Xrs</video:player_loc><video:duration>39</video:duration><video:publication_date>2026-11-25T18:00:00Z</video:publication_date><video:family_friendly>yes</video:family_friendly></video:video></url>
 <url><loc>https://globetape.github.io/videos/chile-length/</loc><lastmod>2026-11-24</lastmod>
   <image:image><image:loc>https://globetape.github.io/thumbs/chile-length.jpg</image:loc></image:image>
   <video:video><video:thumbnail_loc>https://globetape.github.io/thumbs/chile-length.jpg</video:thumbnail_loc><video:title>Chile Is Longer Than Lisbon to Moscow</video:title><video:description>How long is Chile? 4,270 km from north to south, but only 177 km wide on average. Lay it over Europe with its southern tip on Lisbon and it doesn't stop at Moscow: it keeps going for another 360 km, crossing ten countries on the way.</video:description><video:player_loc>https://www.youtube.com/embed/Rhv_-F-Rd40</video:player_loc><video:duration>40</video:duration><video:publication_date>2026-11-24T18:00:00Z</video:publication_date><video:family_friendly>yes</video:family_friendly></video:video></url>
-<url><loc>https://globetape.github.io/videos/world-today-2026-11-23-h/</loc><lastmod>2026-11-24</lastmod>
-  <image:image><image:loc>https://globetape.github.io/thumbs/world-today-2026-11-23-h.jpg</image:loc></image:image>
-  <video:video><video:thumbnail_loc>https://globetape.github.io/thumbs/world-today-2026-11-23-h.jpg</video:thumbnail_loc><video:title>Nvidia Brings Back Jensen Huang | World News, Nov 23</video:title><video:description>Nvidia's board voted unanimously to reinstate Jensen Huang as CEO, and its shares closed more than 31% higher on Monday.</video:description><video:player_loc>https://www.youtube.com/embed/0OTg5656th8</video:player_loc><video:duration>119</video:duration><video:publication_date>2026-11-24T06:28:46Z</video:publication_date><video:family_friendly>yes</video:family_friendly></video:video></url>
 <url><loc>https://globetape.github.io/videos/norway-sweden/</loc><lastmod>2026-11-23</lastmod>
   <image:image><image:loc>https://globetape.github.io/thumbs/norway-sweden.jpg</image:loc></image:image>
   <video:video><video:thumbnail_loc>https://globetape.github.io/thumbs/norway-sweden.jpg</video:thumbnail_loc><video:title>Why Is Norway Richer Than Sweden?</video:title><video:description>Why is Norway so rich? In 1970 Sweden was 44% richer per person. Then the North Sea was split down the middle in 1965, Ekofisk was found on Norway's side in 1969, and Norway taxed the oil and saved it abroad: a fund now worth over $2 trillion.</video:description><video:player_loc>https://www.youtube.com/embed/QrwMeYyM95I</video:player_loc><video:duration>40</video:duration><video:publication_date>2026-11-23T23:00:00Z</video:publication_date><video:family_friendly>yes</video:family_friendly></video:video></url>
